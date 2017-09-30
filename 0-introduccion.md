@@ -132,9 +132,9 @@ Notas:
 [^1]: Lorena Garrido, 2005, «Storni, Mistral, Ibarbourou: encuentros en la creación de una poética feminista». Documentos Lingüísticos y Literarios 28: 34-39  
 [^2]: Un ejemplo de esto lo constituye el libro de Tania Pleitez: *Alfonsina Storni*. Madrid, Espasa Calpe, 2003.
 [^3]: Sidonia Rosenbaum. 1945. *Modern women poets of Spanish America: The precursors: Delmira Agustini, Gabriela Mistral, Alfonsina Storni, Juana de Ibarbourou*. New York: Hispanic Institute.  
-[^4]: Aedo, María Teresa. 1996.  &laquo;Hablar y oír, saber y poder: la poesía de Juana de Ibarbourou desde Las lenguas de diamante hasta Mensajes del escriba&raquo;. Revista Chilena de Literatura 49: 47-64.
-[^5]: Guilbert, Sandra y Gubart, Susan. 1979. *The Madwoman in the Attic. The woman writer and the Nineteenth Century Literary Imagination*. New Haven: Yale University Press.
-[^6]: Lo anterior se puede relacionar con el concepto desarrollado por Dana Crowley Jack (*Silencing the Self: Women and Depression*. New York: Harper Paperbacks, 1993) de  &laquo;discurso de la melancolía femenina&raquo; y puede ser resumido como el vacío que se produce en la mujer cuando, en la lucha de estas dos voces (la del yo y la perspectiva fuera del yo, generalmente moralista y condenatoria), se reprime la propia para poder calzar con la imagen dominante de lo que  &laquo;debe ser&raquo;.
-[^7]: Koch, Dolores. 1985.  &laquo;Delmira, Alfonsina, Juana y Gabriela: [Apuntes poetas Hispanoamericanas]&raquo;, Revista Iberoamericana 132-133: 723-729.
-[^8]: Cixous, Hélène y Clément, Catherine. 1986. *The newly born woman*. Minneapolis: University of Minnesota Press. Trans. Wing, B.
-[^9]: Mistral, Gabriela. 2004. *Antología de Poesía y Prosa*. Jaime Quezada (comp.) Santiago de Chile: Ministerio de Educación-Fondo de Cultura Económica.
+[^4]: Aedo, María Teresa. 1996.  &laquo;Hablar y oír, saber y poder: la poesía de Juana de Ibarbourou desde Las lenguas de diamante hasta Mensajes del escriba&raquo;. Revista Chilena de Literatura 49: 47-64.  
+[^5]: Guilbert, Sandra y Gubart, Susan. 1979. *The Madwoman in the Attic. The woman writer and the Nineteenth Century Literary Imagination*. New Haven: Yale University Press.  
+[^6]: Lo anterior se puede relacionar con el concepto desarrollado por Dana Crowley Jack (*Silencing the Self: Women and Depression*. New York: Harper Paperbacks, 1993) de  &laquo;discurso de la melancolía femenina&raquo; y puede ser resumido como el vacío que se produce en la mujer cuando, en la lucha de estas dos voces (la del yo y la perspectiva fuera del yo, generalmente moralista y condenatoria), se reprime la propia para poder calzar con la imagen dominante de lo que  &laquo;debe ser&raquo;.  
+[^7]: Koch, Dolores. 1985.  &laquo;Delmira, Alfonsina, Juana y Gabriela: [Apuntes poetas Hispanoamericanas]&raquo;, Revista Iberoamericana 132-133: 723-729.  
+[^8]: Cixous, Hélène y Clément, Catherine. 1986. *The newly born woman*. Minneapolis: University of Minnesota Press. Trans. Wing, B.  
+[^9]: Mistral, Gabriela. 2004. *Antología de Poesía y Prosa*. Jaime Quezada (comp.) Santiago de Chile: Ministerio de Educación-Fondo de Cultura Económica.  
