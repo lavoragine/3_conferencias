@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="12.0(81)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="12.0" Self="d">
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<FontFamily Self="di3f" Name="Minion Pro">
+		<Font Self="di3fFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Italic" FontFamily="Minion Pro" Name="Minion Pro Italic" PostScriptName="MinionPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Italic" FullNameNative="Minion Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Medium" FontFamily="Minion Pro" Name="Minion Pro Medium" PostScriptName="MinionPro-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium" FullNameNative="Minion Pro Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di96" Name="Myriad Pro">
+		<Font Self="di96FontnMyriad Pro Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Condensed" PostScriptName="MyriadPro-Cond" Status="Installed" FontStyleName="Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed" FullNameNative="Myriad Pro Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di96FontnMyriad Pro Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Condensed Italic" PostScriptName="MyriadPro-CondIt" Status="Installed" FontStyleName="Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed Italic" FullNameNative="Myriad Pro Condensed Italic" FontStyleNameNative="Condensed Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di96FontnMyriad Pro Bold Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed" PostScriptName="MyriadPro-BoldCond" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed" FullNameNative="Myriad Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di96FontnMyriad Pro Bold Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed Italic" PostScriptName="MyriadPro-BoldCondIt" Status="Installed" FontStyleName="Bold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed Italic" FullNameNative="Myriad Pro Bold Condensed Italic" FontStyleNameNative="Bold Condensed Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di96FontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di96FontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di96FontnMyriad Pro Semibold" FontFamily="Myriad Pro" Name="Myriad Pro Semibold" PostScriptName="MyriadPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold" FullNameNative="Myriad Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di96FontnMyriad Pro Semibold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Italic" PostScriptName="MyriadPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Italic" FullNameNative="Myriad Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di96FontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di96FontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="dia3" Name="Kozuka Mincho Pr6N">
+		<Font Self="dia3FontnKozuka Mincho Pr6N EL" FontFamily="Kozuka Mincho Pr6N" Name="Kozuka Mincho Pr6N EL" PostScriptName="KozMinPr6N-ExtraLight" Status="Installed" FontStyleName="EL" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pr6N EL" FullNameNative="小塚明朝 Pr6N EL" FontStyleNameNative="EL" PlatformName="$ID/" Version="Version 6.017;PS 6.004;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="dia3FontnKozuka Mincho Pr6N L" FontFamily="Kozuka Mincho Pr6N" Name="Kozuka Mincho Pr6N L" PostScriptName="KozMinPr6N-Light" Status="Installed" FontStyleName="L" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pr6N L" FullNameNative="小塚明朝 Pr6N L" FontStyleNameNative="L" PlatformName="$ID/" Version="Version 6.017;PS 6.004;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="dia3FontnKozuka Mincho Pr6N R" FontFamily="Kozuka Mincho Pr6N" Name="Kozuka Mincho Pr6N R" PostScriptName="KozMinPr6N-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pr6N R" FullNameNative="小塚明朝 Pr6N R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 6.017;PS 6.004;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="dia3FontnKozuka Mincho Pr6N M" FontFamily="Kozuka Mincho Pr6N" Name="Kozuka Mincho Pr6N M" PostScriptName="KozMinPr6N-Medium" Status="Installed" FontStyleName="M" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pr6N M" FullNameNative="小塚明朝 Pr6N M" FontStyleNameNative="M" PlatformName="$ID/" Version="Version 6.017;PS 6.004;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="dia3FontnKozuka Mincho Pr6N B" FontFamily="Kozuka Mincho Pr6N" Name="Kozuka Mincho Pr6N B" PostScriptName="KozMinPr6N-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pr6N B" FullNameNative="小塚明朝 Pr6N B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 6.017;PS 6.004;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="dia3FontnKozuka Mincho Pr6N H" FontFamily="Kozuka Mincho Pr6N" Name="Kozuka Mincho Pr6N H" PostScriptName="KozMinPr6N-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pr6N H" FullNameNative="小塚明朝 Pr6N H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 6.017;PS 6.004;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di7c9" Name="Sabon LT Std">
+		<Font Self="di7c9FontnSabon LT Std Roman" FontFamily="Sabon LT Std" Name="Sabon LT Std Roman" PostScriptName="SabonLTStd-Roman" Status="Installed" FontStyleName="Roman" FontType="OpenTypeCFF" WritingScript="0" FullName="Sabon LT Std Roman" FullNameNative="Sabon LT Std Roman" FontStyleNameNative="Roman" PlatformName="$ID/" Version="Version 1.040;PS 001.001;Core 1.0.35;makeotf.lib1.5.4492" TypekitID="$ID/" />
+		<Font Self="di7c9FontnSabon LT Std Italic" FontFamily="Sabon LT Std" Name="Sabon LT Std Italic" PostScriptName="SabonLTStd-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Sabon LT Std Italic" FullNameNative="Sabon LT Std Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.040;PS 001.001;Core 1.0.35;makeotf.lib1.5.4492" TypekitID="$ID/" />
+		<Font Self="di7c9FontnSabon LT Std Bold" FontFamily="Sabon LT Std" Name="Sabon LT Std Bold" PostScriptName="SabonLTStd-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Sabon LT Std Bold" FullNameNative="Sabon LT Std Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.040;PS 001.001;Core 1.0.35;makeotf.lib1.5.4492" TypekitID="$ID/" />
+		<Font Self="di7c9FontnSabon LT Std Bold Italic" FontFamily="Sabon LT Std" Name="Sabon LT Std Bold Italic" PostScriptName="SabonLTStd-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Sabon LT Std Bold Italic" FullNameNative="Sabon LT Std Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.040;PS 001.001;Core 1.0.35;makeotf.lib1.5.4492" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di896" Name="Mrs Eaves XL Serif OT">
+		<Font Self="di896FontnMrs Eaves XL Serif OT Reg" FontFamily="Mrs Eaves XL Serif OT" Name="Mrs Eaves XL Serif OT Reg" PostScriptName="MrsEavesXLSerifOT-Reg" Status="Substituted" FontStyleName="Reg" FontType="OpenTypeCFF" WritingScript="0" FullName="Mrs Eaves XL Serif OT Reg" FullNameNative="Mrs Eaves XL Serif OT Reg" FontStyleNameNative="Reg" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325" TypekitID="$ID/" />
+		<Font Self="di896FontnMrs Eaves XL Serif OT Reg Italic" FontFamily="Mrs Eaves XL Serif OT" Name="Mrs Eaves XL Serif OT Reg Italic" PostScriptName="MrsEavesXLSerifOT-RegItalic" Status="Substituted" FontStyleName="Reg Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Mrs Eaves XL Serif OT Reg Italic" FullNameNative="Mrs Eaves XL Serif OT Reg Italic" FontStyleNameNative="Reg Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325" TypekitID="$ID/" />
+		<Font Self="di896FontnMrs Eaves XL Serif OT Bold" FontFamily="Mrs Eaves XL Serif OT" Name="Mrs Eaves XL Serif OT Bold" PostScriptName="MrsEavesXLSerifOT-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Mrs Eaves XL Serif OT Bold" FullNameNative="Mrs Eaves XL Serif OT Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325" TypekitID="$ID/" />
+		<Font Self="di896FontnMrs Eaves XL Serif OT Bold Italic" FontFamily="Mrs Eaves XL Serif OT" Name="Mrs Eaves XL Serif OT Bold Italic" PostScriptName="MrsEavesXLSerifOT-BoldItalic" Status="Substituted" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Mrs Eaves XL Serif OT Bold Italic" FullNameNative="Mrs Eaves XL Serif OT Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325" TypekitID="$ID/" />
+		<Font Self="di896FontnMrs Eaves XL Serif OT Heavy" FontFamily="Mrs Eaves XL Serif OT" Name="Mrs Eaves XL Serif OT Heavy" PostScriptName="MrsEavesXLSerifOT-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="OpenTypeCFF" WritingScript="0" FullName="Mrs Eaves XL Serif OT Heavy" FullNameNative="Mrs Eaves XL Serif OT Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325" TypekitID="$ID/" />
+		<Font Self="di896FontnMrs Eaves XL Serif OT Heavy Italic" FontFamily="Mrs Eaves XL Serif OT" Name="Mrs Eaves XL Serif OT Heavy Italic" PostScriptName="MrsEavesXLSerifOT-HeavyItalic" Status="Substituted" FontStyleName="Heavy Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Mrs Eaves XL Serif OT Heavy Italic" FullNameNative="Mrs Eaves XL Serif OT Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di8d4" Name="Hoefler Text">
+		<Font Self="di8d4FontnHoefler Text Ornaments" FontFamily="Hoefler Text" Name="Hoefler Text Ornaments" PostScriptName="HoeflerText-Ornaments" Status="Installed" FontStyleName="Ornaments" FontType="TrueType" WritingScript="0" FullName="Hoefler Text Ornaments" FullNameNative="Hoefler Text Ornaments" FontStyleNameNative="Ornaments" PlatformName="$ID/" Version="8.0d2e1" TypekitID="$ID/" />
+		<Font Self="di8d4FontnHoefler Text Regular" FontFamily="Hoefler Text" Name="Hoefler Text Regular" PostScriptName="HoeflerText-Regular" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Hoefler Text" FullNameNative="Hoefler Text" FontStyleNameNative="Regular" PlatformName="$ID/" Version="8.0d2e1" TypekitID="$ID/" />
+		<Font Self="di8d4FontnHoefler Text Italic" FontFamily="Hoefler Text" Name="Hoefler Text Italic" PostScriptName="HoeflerText-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Hoefler Text Italic" FullNameNative="Hoefler Text Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="8.0d2e1" TypekitID="$ID/" />
+		<Font Self="di8d4FontnHoefler Text Black" FontFamily="Hoefler Text" Name="Hoefler Text Black" PostScriptName="HoeflerText-Black" Status="Installed" FontStyleName="Black" FontType="TrueType" WritingScript="0" FullName="Hoefler Text Black" FullNameNative="Hoefler Text Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="8.0d2e1" TypekitID="$ID/" />
+		<Font Self="di8d4FontnHoefler Text Black Italic" FontFamily="Hoefler Text" Name="Hoefler Text Black Italic" PostScriptName="HoeflerText-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="TrueType" WritingScript="0" FullName="Hoefler Text Black Italic" FullNameNative="Hoefler Text Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="8.0d2e1" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di98e" Name="Mr Eaves San OT">
+		<Font Self="di98eFontnMr Eaves San OT Reg" FontFamily="Mr Eaves San OT" Name="Mr Eaves San OT Reg" PostScriptName="MrEavesSanOT-Reg" Status="Substituted" FontStyleName="Reg" FontType="OpenTypeCFF" WritingScript="0" FullName="Mr Eaves San OT Reg" FullNameNative="Mr Eaves San OT Reg" FontStyleNameNative="Reg" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di98eFontnMr Eaves San OT Reg Italic" FontFamily="Mr Eaves San OT" Name="Mr Eaves San OT Reg Italic" PostScriptName="MrEavesSanOT-RegItalic" Status="Substituted" FontStyleName="Reg Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Mr Eaves San OT Reg Italic" FullNameNative="Mr Eaves San OT Reg Italic" FontStyleNameNative="Reg Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di98eFontnMr Eaves San OT Bold" FontFamily="Mr Eaves San OT" Name="Mr Eaves San OT Bold" PostScriptName="MrEavesSanOT-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Mr Eaves San OT Bold" FullNameNative="Mr Eaves San OT Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di98eFontnMr Eaves San OT Bold Italic" FontFamily="Mr Eaves San OT" Name="Mr Eaves San OT Bold Italic" PostScriptName="MrEavesSanOT-BoldItalic" Status="Substituted" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Mr Eaves San OT Bold Italic" FullNameNative="Mr Eaves San OT Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di98eFontnMr Eaves San OT Heavy" FontFamily="Mr Eaves San OT" Name="Mr Eaves San OT Heavy" PostScriptName="MrEavesSanOT-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="OpenTypeCFF" WritingScript="0" FullName="Mr Eaves San OT Heavy" FullNameNative="Mr Eaves San OT Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di98eFontnMr Eaves San OT Heavy Italic" FontFamily="Mr Eaves San OT" Name="Mr Eaves San OT Heavy Italic" PostScriptName="MrEavesSanOT-HeavyItalic" Status="Substituted" FontStyleName="Heavy Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Mr Eaves San OT Heavy Italic" FullNameNative="Mr Eaves San OT Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="dia17" Name="Calibri">
+		<Font Self="dia17FontnCalibri Regular" FontFamily="Calibri" Name="Calibri Regular" PostScriptName="Calibri" Status="Substituted" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri" FullNameNative="Calibri" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 5.62" TypekitID="$ID/" />
+		<Font Self="dia17FontnCalibri Italic" FontFamily="Calibri" Name="Calibri Italic" PostScriptName="Calibri-Italic" Status="Substituted" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Italic" FullNameNative="Calibri Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 5.62" TypekitID="$ID/" />
+		<Font Self="dia17FontnCalibri Bold" FontFamily="Calibri" Name="Calibri Bold" PostScriptName="Calibri-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Bold" FullNameNative="Calibri Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 5.62" TypekitID="$ID/" />
+		<Font Self="dia17FontnCalibri Bold Italic" FontFamily="Calibri" Name="Calibri Bold Italic" PostScriptName="Calibri-BoldItalic" Status="Substituted" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Bold Italic" FullNameNative="Calibri Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 5.62" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="dia45" Name="Avenir LT Std">
+		<Font Self="dia45FontnAvenir LT Std 35 Light" FontFamily="Avenir LT Std" Name="Avenir LT Std 35 Light" PostScriptName="AvenirLTStd-Light" Status="Installed" FontStyleName="35 Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir LT Std 35 Light" FullNameNative="Avenir LT Std 35 Light" FontStyleNameNative="35 Light" PlatformName="$ID/" Version="Version 2.035;PS 002.000;hotconv 1.0.51;makeotf.lib2.0.18671" TypekitID="$ID/" />
+		<Font Self="dia45FontnAvenir LT Std 35 Light Oblique" FontFamily="Avenir LT Std" Name="Avenir LT Std 35 Light Oblique" PostScriptName="AvenirLTStd-LightOblique" Status="Installed" FontStyleName="35 Light Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir LT Std 35 Light Oblique" FullNameNative="Avenir LT Std 35 Light Oblique" FontStyleNameNative="35 Light Oblique" PlatformName="$ID/" Version="Version 2.035;PS 002.000;hotconv 1.0.51;makeotf.lib2.0.18671" TypekitID="$ID/" />
+		<Font Self="dia45FontnAvenir LT Std 45 Book" FontFamily="Avenir LT Std" Name="Avenir LT Std 45 Book" PostScriptName="AvenirLTStd-Book" Status="Installed" FontStyleName="45 Book" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir LT Std 45 Book" FullNameNative="Avenir LT Std 45 Book" FontStyleNameNative="45 Book" PlatformName="$ID/" Version="Version 2.035;PS 002.000;hotconv 1.0.51;makeotf.lib2.0.18671" TypekitID="$ID/" />
+		<Font Self="dia45FontnAvenir LT Std 45 Book Oblique" FontFamily="Avenir LT Std" Name="Avenir LT Std 45 Book Oblique" PostScriptName="AvenirLTStd-BookOblique" Status="Installed" FontStyleName="45 Book Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir LT Std 45 Book Oblique" FullNameNative="Avenir LT Std 45 Book Oblique" FontStyleNameNative="45 Book Oblique" PlatformName="$ID/" Version="Version 2.035;PS 002.000;hotconv 1.0.51;makeotf.lib2.0.18671" TypekitID="$ID/" />
+		<Font Self="dia45FontnAvenir LT Std 55 Roman" FontFamily="Avenir LT Std" Name="Avenir LT Std 55 Roman" PostScriptName="AvenirLTStd-Roman" Status="Installed" FontStyleName="55 Roman" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir LT Std 55 Roman" FullNameNative="Avenir LT Std 55 Roman" FontStyleNameNative="55 Roman" PlatformName="$ID/" Version="Version 2.035;PS 002.000;hotconv 1.0.51;makeotf.lib2.0.18671" TypekitID="$ID/" />
+		<Font Self="dia45FontnAvenir LT Std 55 Oblique" FontFamily="Avenir LT Std" Name="Avenir LT Std 55 Oblique" PostScriptName="AvenirLTStd-Oblique" Status="Installed" FontStyleName="55 Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir LT Std 55 Oblique" FullNameNative="Avenir LT Std 55 Oblique" FontStyleNameNative="55 Oblique" PlatformName="$ID/" Version="Version 2.035;PS 002.000;hotconv 1.0.51;makeotf.lib2.0.18671" TypekitID="$ID/" />
+		<Font Self="dia45FontnAvenir LT Std 65 Medium" FontFamily="Avenir LT Std" Name="Avenir LT Std 65 Medium" PostScriptName="AvenirLTStd-Medium" Status="Installed" FontStyleName="65 Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir LT Std 65 Medium" FullNameNative="Avenir LT Std 65 Medium" FontStyleNameNative="65 Medium" PlatformName="$ID/" Version="Version 2.035;PS 002.000;hotconv 1.0.51;makeotf.lib2.0.18671" TypekitID="$ID/" />
+		<Font Self="dia45FontnAvenir LT Std 65 Medium Oblique" FontFamily="Avenir LT Std" Name="Avenir LT Std 65 Medium Oblique" PostScriptName="AvenirLTStd-MediumOblique" Status="Installed" FontStyleName="65 Medium Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir LT Std 65 Medium Oblique" FullNameNative="Avenir LT Std 65 Medium Oblique" FontStyleNameNative="65 Medium Oblique" PlatformName="$ID/" Version="Version 2.035;PS 002.000;hotconv 1.0.51;makeotf.lib2.0.18671" TypekitID="$ID/" />
+		<Font Self="dia45FontnAvenir LT Std 85 Heavy" FontFamily="Avenir LT Std" Name="Avenir LT Std 85 Heavy" PostScriptName="AvenirLTStd-Heavy" Status="Installed" FontStyleName="85 Heavy" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir LT Std 85 Heavy" FullNameNative="Avenir LT Std 85 Heavy" FontStyleNameNative="85 Heavy" PlatformName="$ID/" Version="Version 2.035;PS 002.000;hotconv 1.0.51;makeotf.lib2.0.18671" TypekitID="$ID/" />
+		<Font Self="dia45FontnAvenir LT Std 85 Heavy Oblique" FontFamily="Avenir LT Std" Name="Avenir LT Std 85 Heavy Oblique" PostScriptName="AvenirLTStd-HeavyOblique" Status="Installed" FontStyleName="85 Heavy Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir LT Std 85 Heavy Oblique" FullNameNative="Avenir LT Std 85 Heavy Oblique" FontStyleNameNative="85 Heavy Oblique" PlatformName="$ID/" Version="Version 2.035;PS 002.000;hotconv 1.0.51;makeotf.lib2.0.18671" TypekitID="$ID/" />
+		<Font Self="dia45FontnAvenir LT Std 95 Black" FontFamily="Avenir LT Std" Name="Avenir LT Std 95 Black" PostScriptName="AvenirLTStd-Black" Status="Installed" FontStyleName="95 Black" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir LT Std 95 Black" FullNameNative="Avenir LT Std 95 Black" FontStyleNameNative="95 Black" PlatformName="$ID/" Version="Version 2.035;PS 002.000;hotconv 1.0.51;makeotf.lib2.0.18671" TypekitID="$ID/" />
+		<Font Self="dia45FontnAvenir LT Std 95 Black Oblique" FontFamily="Avenir LT Std" Name="Avenir LT Std 95 Black Oblique" PostScriptName="AvenirLTStd-BlackOblique" Status="Installed" FontStyleName="95 Black Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir LT Std 95 Black Oblique" FullNameNative="Avenir LT Std 95 Black Oblique" FontStyleNameNative="95 Black Oblique" PlatformName="$ID/" Version="Version 2.035;PS 002.000;hotconv 1.0.51;makeotf.lib2.0.18671" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="dib64" Name="Mrs Eaves XL Serif Nar OT">
+		<Font Self="dib64FontnMrs Eaves XL Serif Nar OT Reg" FontFamily="Mrs Eaves XL Serif Nar OT" Name="Mrs Eaves XL Serif Nar OT Reg" PostScriptName="MrsEavesXLSerifNarOT-Reg" Status="Substituted" FontStyleName="Reg" FontType="OpenTypeCFF" WritingScript="0" FullName="Mrs Eaves XL Serif Nar OT Reg" FullNameNative="Mrs Eaves XL Serif Nar OT Reg" FontStyleNameNative="Reg" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325" TypekitID="$ID/" />
+		<Font Self="dib64FontnMrs Eaves XL Serif Nar OT Reg Italic" FontFamily="Mrs Eaves XL Serif Nar OT" Name="Mrs Eaves XL Serif Nar OT Reg Italic" PostScriptName="MrsEavesXLSerifNarOT-RegItalic" Status="Substituted" FontStyleName="Reg Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Mrs Eaves XL Serif Nar OT Reg Italic" FullNameNative="Mrs Eaves XL Serif Nar OT Reg Italic" FontStyleNameNative="Reg Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325" TypekitID="$ID/" />
+		<Font Self="dib64FontnMrs Eaves XL Serif Nar OT Bold" FontFamily="Mrs Eaves XL Serif Nar OT" Name="Mrs Eaves XL Serif Nar OT Bold" PostScriptName="MrsEavesXLSerifNarOT-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Mrs Eaves XL Serif Nar OT Bold" FullNameNative="Mrs Eaves XL Serif Nar OT Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325" TypekitID="$ID/" />
+		<Font Self="dib64FontnMrs Eaves XL Serif Nar OT Bold Italic" FontFamily="Mrs Eaves XL Serif Nar OT" Name="Mrs Eaves XL Serif Nar OT Bold Italic" PostScriptName="MrsEavesXLSerifNarOT-BoldItalic" Status="Substituted" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Mrs Eaves XL Serif Nar OT Bold Italic" FullNameNative="Mrs Eaves XL Serif Nar OT Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325" TypekitID="$ID/" />
+		<Font Self="dib64FontnMrs Eaves XL Serif Nar OT Heavy" FontFamily="Mrs Eaves XL Serif Nar OT" Name="Mrs Eaves XL Serif Nar OT Heavy" PostScriptName="MrsEavesXLSerifNarOT-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="OpenTypeCFF" WritingScript="0" FullName="Mrs Eaves XL Serif Nar OT Heavy" FullNameNative="Mrs Eaves XL Serif Nar OT Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325" TypekitID="$ID/" />
+		<Font Self="dib64FontnMrs Eaves XL Serif Nar OT Heavy Italic" FontFamily="Mrs Eaves XL Serif Nar OT" Name="Mrs Eaves XL Serif Nar OT Heavy Italic" PostScriptName="MrsEavesXLSerifNarOT-HeavyItalic" Status="Substituted" FontStyleName="Heavy Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Mrs Eaves XL Serif Nar OT Heavy Italic" FullNameNative="Mrs Eaves XL Serif Nar OT Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="dib66" Name="Fluid Spiral">
+		<Font Self="dib66FontnFluid Spiral Regular" FontFamily="Fluid Spiral" Name="Fluid Spiral Regular" PostScriptName="FluidSpiral" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Fluid Spiral" FullNameNative="Fluid Spiral" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.00 December 18, 2011, initial release" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di1287" Name="Avenir Next">
+		<Font Self="di1287FontnAvenir Next Ultra Light" FontFamily="Avenir Next" Name="Avenir Next Ultra Light" PostScriptName="AvenirNext-UltraLight" Status="Installed" FontStyleName="Ultra Light" FontType="TrueType" WritingScript="0" FullName="AvenirNext-UltraLight" FullNameNative="AvenirNext-UltraLight" FontStyleNameNative="Ultra Light" PlatformName="$ID/" Version="12.0d1e9" TypekitID="$ID/" />
+		<Font Self="di1287FontnAvenir Next Ultra Light Italic" FontFamily="Avenir Next" Name="Avenir Next Ultra Light Italic" PostScriptName="AvenirNext-UltraLightItalic" Status="Installed" FontStyleName="Ultra Light Italic" FontType="TrueType" WritingScript="0" FullName="Avenir Next Ultra Light Italic" FullNameNative="Avenir Next Ultra Light Italic" FontStyleNameNative="Ultra Light Italic" PlatformName="$ID/" Version="12.0d1e9" TypekitID="$ID/" />
+		<Font Self="di1287FontnAvenir Next Regular" FontFamily="Avenir Next" Name="Avenir Next Regular" PostScriptName="AvenirNext-Regular" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Avenir Next Regular" FullNameNative="Avenir Next Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="12.0d1e9" TypekitID="$ID/" />
+		<Font Self="di1287FontnAvenir Next Italic" FontFamily="Avenir Next" Name="Avenir Next Italic" PostScriptName="AvenirNext-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Avenir Next Italic" FullNameNative="Avenir Next Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="12.0d1e9" TypekitID="$ID/" />
+		<Font Self="di1287FontnAvenir Next Medium" FontFamily="Avenir Next" Name="Avenir Next Medium" PostScriptName="AvenirNext-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Avenir Next Medium" FullNameNative="Avenir Next Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="12.0d1e9" TypekitID="$ID/" />
+		<Font Self="di1287FontnAvenir Next Medium Italic" FontFamily="Avenir Next" Name="Avenir Next Medium Italic" PostScriptName="AvenirNext-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Avenir Next Medium Italic" FullNameNative="Avenir Next Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="12.0d1e9" TypekitID="$ID/" />
+		<Font Self="di1287FontnAvenir Next Demi Bold" FontFamily="Avenir Next" Name="Avenir Next Demi Bold" PostScriptName="AvenirNext-DemiBold" Status="Installed" FontStyleName="Demi Bold" FontType="TrueType" WritingScript="0" FullName="Avenir Next Demi Bold" FullNameNative="Avenir Next Demi Bold" FontStyleNameNative="Demi Bold" PlatformName="$ID/" Version="12.0d1e9" TypekitID="$ID/" />
+		<Font Self="di1287FontnAvenir Next Demi Bold Italic" FontFamily="Avenir Next" Name="Avenir Next Demi Bold Italic" PostScriptName="AvenirNext-DemiBoldItalic" Status="Installed" FontStyleName="Demi Bold Italic" FontType="TrueType" WritingScript="0" FullName="Avenir Next Demi Bold Italic" FullNameNative="Avenir Next Demi Bold Italic" FontStyleNameNative="Demi Bold Italic" PlatformName="$ID/" Version="12.0d1e9" TypekitID="$ID/" />
+		<Font Self="di1287FontnAvenir Next Bold" FontFamily="Avenir Next" Name="Avenir Next Bold" PostScriptName="AvenirNext-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Avenir Next Bold" FullNameNative="Avenir Next Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="12.0d1e9" TypekitID="$ID/" />
+		<Font Self="di1287FontnAvenir Next Bold Italic" FontFamily="Avenir Next" Name="Avenir Next Bold Italic" PostScriptName="AvenirNext-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Avenir Next Bold Italic" FullNameNative="Avenir Next Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="12.0d1e9" TypekitID="$ID/" />
+		<Font Self="di1287FontnAvenir Next Heavy" FontFamily="Avenir Next" Name="Avenir Next Heavy" PostScriptName="AvenirNext-Heavy" Status="Installed" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Avenir Next Heavy" FullNameNative="Avenir Next Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="12.0d1e9" TypekitID="$ID/" />
+		<Font Self="di1287FontnAvenir Next Heavy Italic" FontFamily="Avenir Next" Name="Avenir Next Heavy Italic" PostScriptName="AvenirNext-HeavyItalic" Status="Installed" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Avenir Next Heavy Italic" FullNameNative="Avenir Next Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="12.0d1e9" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di129d" Name="Avenir Next LT Pro">
+		<Font Self="di129dFontnAvenir Next LT Pro Ultra Light Condensed" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Ultra Light Condensed" PostScriptName="AvenirNextLTPro-UltLtCn" Status="Installed" FontStyleName="Ultra Light Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Ultra Light Condensed" FullNameNative="Avenir Next LT Pro Ultra Light Condensed" FontStyleNameNative="Ultra Light Condensed" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Ultra Light Condensed Italic" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Ultra Light Condensed Italic" PostScriptName="AvenirNextLTPro-UltLtCnIt" Status="Installed" FontStyleName="Ultra Light Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Ultra Light Condensed Italic" FullNameNative="Avenir Next LT Pro Ultra Light Condensed Italic" FontStyleNameNative="Ultra Light Condensed Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Condensed" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Condensed" PostScriptName="AvenirNextLTPro-Cn" Status="Installed" FontStyleName="Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Condensed" FullNameNative="Avenir Next LT Pro Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Regular" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Regular" PostScriptName="AvenirNextLTPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro" FullNameNative="Avenir Next LT Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Condensed Italic" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Condensed Italic" PostScriptName="AvenirNextLTPro-CnIt" Status="Installed" FontStyleName="Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Condensed Italic" FullNameNative="Avenir Next LT Pro Condensed Italic" FontStyleNameNative="Condensed Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Italic" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Italic" PostScriptName="AvenirNextLTPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Italic" FullNameNative="Avenir Next LT Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Medium Condensed" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Medium Condensed" PostScriptName="AvenirNextLTPro-MediumCn" Status="Installed" FontStyleName="Medium Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Medium Condensed" FullNameNative="Avenir Next LT Pro Medium Condensed" FontStyleNameNative="Medium Condensed" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Medium Condensed Italic" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Medium Condensed Italic" PostScriptName="AvenirNextLTPro-MediumCnIt" Status="Installed" FontStyleName="Medium Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Medium Condensed Italic" FullNameNative="Avenir Next LT Pro Medium Condensed Italic" FontStyleNameNative="Medium Condensed Italic" PlatformName="$ID/" Version="Version 1.200;PS 001.002;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Demi" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Demi" PostScriptName="AvenirNextLTPro-Demi" Status="Installed" FontStyleName="Demi" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Demi" FullNameNative="Avenir Next LT Pro Demi" FontStyleNameNative="Demi" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Demi Condensed" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Demi Condensed" PostScriptName="AvenirNextLTPro-DemiCn" Status="Installed" FontStyleName="Demi Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Demi Condensed" FullNameNative="Avenir Next LT Pro Demi Condensed" FontStyleNameNative="Demi Condensed" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Demi Condensed Italic" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Demi Condensed Italic" PostScriptName="AvenirNextLTPro-DemiCnIt" Status="Installed" FontStyleName="Demi Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Demi Condensed Italic" FullNameNative="Avenir Next LT Pro Demi Condensed Italic" FontStyleNameNative="Demi Condensed Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Demi Italic" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Demi Italic" PostScriptName="AvenirNextLTPro-DemiIt" Status="Installed" FontStyleName="Demi Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Demi Italic" FullNameNative="Avenir Next LT Pro Demi Italic" FontStyleNameNative="Demi Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Bold" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Bold" PostScriptName="AvenirNextLTPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Bold" FullNameNative="Avenir Next LT Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.200;PS 001.002;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Bold Condensed" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Bold Condensed" PostScriptName="AvenirNextLTPro-BoldCn" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Bold Condensed" FullNameNative="Avenir Next LT Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Bold Condensed Italic" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Bold Condensed Italic" PostScriptName="AvenirNextLTPro-BoldCnIt" Status="Installed" FontStyleName="Bold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Bold Condensed Italic" FullNameNative="Avenir Next LT Pro Bold Condensed Italic" FontStyleNameNative="Bold Condensed Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Heavy Condensed" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Heavy Condensed" PostScriptName="AvenirNextLTPro-HeavyCn" Status="Installed" FontStyleName="Heavy Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Heavy Condensed" FullNameNative="Avenir Next LT Pro Heavy Condensed" FontStyleNameNative="Heavy Condensed" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+		<Font Self="di129dFontnAvenir Next LT Pro Heavy Condensed Italic" FontFamily="Avenir Next LT Pro" Name="Avenir Next LT Pro Heavy Condensed Italic" PostScriptName="AvenirNextLTPro-HeavyCnIt" Status="Installed" FontStyleName="Heavy Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Avenir Next LT Pro Heavy Condensed Italic" FullNameNative="Avenir Next LT Pro Heavy Condensed Italic" FontStyleNameNative="Heavy Condensed Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.001;hotconv 1.0.38" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di14d4" Name="Chalkboard">
+		<Font Self="di14d4FontnChalkboard Regular" FontFamily="Chalkboard" Name="Chalkboard Regular" PostScriptName="Chalkboard" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Chalkboard" FullNameNative="Chalkboard" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d1e1" TypekitID="$ID/" />
+		<Font Self="di14d4FontnChalkboard Bold" FontFamily="Chalkboard" Name="Chalkboard Bold" PostScriptName="Chalkboard-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Chalkboard Bold" FullNameNative="Chalkboard Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d1e1" TypekitID="$ID/" />
+	</FontFamily>
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="ua2" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua4" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua5" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua6" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua7" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua8" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+	<KinsokuTable Self="KinsokuTable/$ID/kHardKinsokuName" Name="$ID/kHardKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kSoftKinsokuName" Name="$ID/kSoftKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kKoreanKinsokuName" Name="$ID/kKoreanKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kSimpChineseKinsokuName" Name="$ID/kSimpChineseKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kTradChineseKinsokuName" Name="$ID/kTradChineseKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/Word_Kinsoku" Name="Word_Kinsoku" CantBeginLineChars="" CantEndLineChars="" HangingPunctuationChars="" CantBeSeparatedChars="" />
+	<RootCharacterStyleGroup Self="u78">
+		<CharacterStyle Self="CharacterStyle/Default" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="d668af29-1512-4986-81a6-6d8d15eae9d5" KeyboardShortcut="0 0" Name="Default">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/superindice" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="c1dc3ce9-7821-46c8-8732-2a79efb6fbc6" KeyboardShortcut="0 0" Name="superindice" FontStyle="Roman" PointSize="16" KerningMethod="$ID/Optical" BaselineShift="-3" KerningValue="1e+11" Position="Superscript">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/Default</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Sabon LT Std</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" Name="$ID/[No character style]" />
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="efe76428-1aa2-4f3d-b7f1-91676f089c5a" KeyboardShortcut="0 0" Name="Italic" FontStyle="Italic">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/Default</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
+	</RootCharacterStyleGroup>
+	<RootParagraphStyleGroup Self="u77">
+		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" SplitDocument="false" EmitCss="true" StyleUniqueId="3c66bb71-a5d2-498b-b993-be8642833101" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="35 Light" PointSize="14" FirstLineIndent="0" SpaceAfter="45.35433070866142" StartParagraph="NextOddPage" Justification="LeftAlign" IgnoreEdgeAlignment="true">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">,</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">195</Position>
+					</ListItem>
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">,</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">207</Position>
+					</ListItem>
+				</TabList>
+				<AppliedFont type="string">Avenir LT Std</AppliedFont>
+				<BalanceRaggedLines type="enumeration">VeeShape</BalanceRaggedLines>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Footnote &gt; Paragraph" SplitDocument="false" EmitCss="true" StyleUniqueId="e63f6653-3c35-4039-a4e0-975bd684801f" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="8" LeftIndent="8.503937007874017" FirstLineIndent="-8.503937007874017" Hyphenation="false" HyphenationZone="34.01574803149607" MaximumGlyphScaling="103" MinimumGlyphScaling="97" KeepWithNext="2" KeepFirstLines="3" KeepLastLines="3" KeepLinesTogether="true" Justification="LeftJustified" HyphenWeight="9" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">9</Leading>
+				<AppliedFont type="string">Avenir Next LT Pro</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/First_Paragraph" Name="First_Paragraph" Imported="false" NextStyle="ParagraphStyle/First_Paragraph" SplitDocument="false" EmitCss="true" StyleUniqueId="71c335ca-b2d4-4edd-83d5-189b55c6b790" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Roman" PointSize="11" HyphenationZone="34.01574803149607" MaximumGlyphScaling="103" MinimumGlyphScaling="97" KeepWithNext="2" KeepFirstLines="3" KeepLastLines="3" KeepLinesTogether="true" Justification="LeftJustified" HyphenWeight="9" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">14</Leading>
+				<AppliedFont type="string">Sabon LT Std</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" SplitDocument="false" EmitCss="true" StyleUniqueId="0d1659ff-bf74-415b-95b0-8cf149d97e51" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Roman" KeepFirstLines="2" KeepLastLines="2">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Sabon LT Std</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" Imported="false" NextStyle="ParagraphStyle/Header2" SplitDocument="false" EmitCss="true" StyleUniqueId="c16bff87-3e13-41ed-b608-00e7f7ca1bac" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="12" KerningMethod="$ID/Optical" SpaceBefore="11.338582677165356" SpaceAfter="11.338582677165356" StartParagraph="Anywhere">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Header1</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Blockquote &gt; Paragraph" SplitDocument="false" EmitCss="true" StyleUniqueId="bb2e76c6-df45-4dd9-bda7-86d691e81dc6" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Roman" PointSize="9" KerningMethod="$ID/Optical" LeftIndent="10" FirstLineIndent="0" SpaceBefore="8.503937007874017" SpaceAfter="8.503937007874017" IgnoreEdgeAlignment="true" GridAlignFirstLineOnly="true">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11</Leading>
+				<AppliedFont type="string">Sabon LT Std</AppliedFont>
+				<BalanceRaggedLines type="enumeration">VeeShape</BalanceRaggedLines>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Estilo de párrafo 2" Name="Estilo de párrafo 2" Imported="false" NextStyle="ParagraphStyle/Estilo de párrafo 2" SplitDocument="false" EmitCss="true" StyleUniqueId="5c8524ea-843d-4ac5-a6e9-7d1156d8dfad" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FirstLineIndent="0">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Blockquote &gt; Paragraph" Name="Blockquote &gt; Blockquote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Blockquote &gt; Blockquote &gt; Paragraph" SplitDocument="false" EmitCss="true" StyleUniqueId="13acb970-0484-49cd-880b-ebd4aa516a36" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" LeftIndent="17.007874015748033" SpaceBefore="5.669291338582678" SpaceAfter="2.834645669291339" KeepFirstLines="2" KeepLastLines="2" Justification="LeftAlign">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Blockquote &gt; Paragraph</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Reg" PointSize="11" FirstLineIndent="17.007874015748033" Hyphenation="false" HyphenationZone="34.01574803149607" MaximumGlyphScaling="103" MinimumGlyphScaling="97" KeepWithNext="2" KeepFirstLines="3" KeepLastLines="3" KeepLinesTogether="true" Justification="LeftJustified" HyphenWeight="9" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">14</Leading>
+				<AppliedFont type="string">Mrs Eaves XL Serif OT</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+	</RootParagraphStyleGroup>
+	<TinDocumentDataObject>
+		<Properties>
+			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
+		</Properties>
+	</TinDocumentDataObject>
+	<CrossReferenceFormat Self="u97" Name="Párrafo completo y número de página" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u97BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u97BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u97BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; en la página " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u97BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u98" Name="Párrafo completo" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u98BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u99" Name="Texto de párrafo y número de página" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u99BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;en la página " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9a" Name="Texto de párrafo" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9aBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9b" Name="Número de párrafo y número de página" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9bBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9bBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" en la página " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9bBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9c" Name="Número de párrafo" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9cBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9d" Name="Nombre de anclaje de texto y número de página" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9dBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9dBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9dBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; en la página " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9dBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9e" Name="Nombre de anclaje de texto" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9f" Name="Número de página" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9fBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="página " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9fBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<Story Self="ua2c" AppliedTOCStyle="n" UserText="true" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Storni, Mistral, Ibarbourou: encuentros en la creación de una poética feminista</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/superindice">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+							<Content><?ACE 4?> </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>Lorena Garrido, 2005, «Storni, Mistral, Ibarbourou: encuentros en la creación de una poética feminista». Documentos Lingüísticos y Literarios 28: 34-39</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Roman" PointSize="11">
+				<Properties>
+					<AppliedFont type="string">Sabon LT Std</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First_Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>El año 1938 el Ministro de Educación de Uruguay organizó un curso de verano llamado «Curso sudamericano de vacaciones» en la Universidad de Montevideo. A una de las sesiones fueron invitadas las mayores exponentes de la poesía del cono sur de ese momento: Juana de Ibarbourou, de Uruguay; Alfonsina Storni, de Argentina y Gabriela Mistral, de Chile, para hablar de su labor poética y explicar cómo escribían sus versos.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>A pesar de la importancia de estas escritoras en la literatura latinoamericana, las ponencias, por increíble que parezca, no han sido analizadas. Únicamente se las menciona en algunas biografías, sin observar que hay en ellas importantes declaraciones sobre creación y poesía</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/superindice">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+							<Content><?ACE 4?> </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>Un ejemplo de esto lo constituye el libro de Tania Pleitez: </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Alfonsina Storni</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>. Madrid, Espasa Calpe, 2003.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>. En un momento en que la mujer tenía un rol completamente secundario en la sociedad, y más aún en el ámbito literario y poético, el surgimiento de una generación de poetas mujeres de renombre es significativo, sobre todo si consideramos la importante influencia que tendrían en la escritura de las poetas que las siguieron.</Content>
+				<Br />
+				<Content>Junto con mostrar la postura poética de cada una de ellas, mi objetivo es destacar su visión como mujeres, que creo era marcadamente feminista. Por supuesto, el feminismo como tal no llegaba aún a Latinoamérica y la posición de estas mujeres no era radical ni era sustentada por ningún argumento teórico. Sin embargo, como veremos a continuación, cada una a su modo se rebeló en contra del orden hegemónico patriarcal imperante, si no a través de su vida, a través de su poesía, en la que cada una, y por medio de distintos recursos, denunció y criticó la situación de la mujer. ¿Hay alguna relación entre la poesía de estas mujeres y su ponencia para este curso? ¿Qué elementos comunes hay entre los discursos de estas escritoras? Analizaré brevemente la ponencia de cada una de ellas para luego referirme a los intercambios personales y literarios entre las visiones de estas poetas.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Juana de Ibarbourou</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First_Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>La primera en exponer fue Juana de Ibarbourou, quien era a la vez, como uruguaya, la anfitriona de la conferencia. En el momento en que se produce este encuentro, Ibarbourou ya había publicado tres libros de poemas: </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Las lenguas de diamante</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> (1919), </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Raíz Salvaje</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> (1922) y </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>La rosa de los vientos</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> (1930). En ellos, hay una constante preocupación por la muerte, la naturaleza y, por supuesto, el amor, temas comunes a todas las poetas de su época y también a las que la precedieron. La transgresión de Ibarbourou se relaciona más con sus poemas eróticos, en los que «la naturaleza aparece como el elemento regulador de la pasión desbordante de la hablante lírica. Nunca antes una mujer había cantado tan abiertamente el erotismo del amor»</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/superindice">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+							<Content><?ACE 4?> </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>Sidonia Rosenbaum. 1945. </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Modern women poets of Spanish America: The precursors: Delmira Agustini, Gabriela Mistral, Alfonsina Storni, Juana de Ibarbourou</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>. New York: Hispanic Institute.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>. Sin embargo, ella controlaba esta pasión si no por medio de la naturaleza, por medio de adjetivos que en su oposición le restaban erotismo a su mensaje como «puro impudor», «casta impudicia». Hay claramente en Ibarbourou una dualidad de discurso que creemos refleja la contradicción entre la autoimagen de la mujer y la impuesta por el discurso patriarcal. Algunos autores, como María Teresa Aedo</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/superindice">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+							<Content><?ACE 4?>  </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>Aedo, María Teresa. 1996. «Hablar y oír, saber y poder: la poesía de Juana de Ibarbourou desde Las lenguas de diamante hasta Mensajes del escriba». Revista Chilena de Literatura 49: 47-64.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, han identificado en la escritura de Ibarbourou una conciencia de la relación saber-poder (en términos de Foucault) del discurso que demuestra al tratar de denunciar el sometimiento al que se encuentra la mujer mediante una técnica de alternancia de distintos discursos. Así, por una parte escribe: «qué pena tan honda me da ser mujer» pero en otras censura sus deseos. ¿Qué tanto de esta intención aparece en el discurso de Ibarbourou leído en la Universidad de Montevideo?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Como punto de partida, es necesario considerar que entonces, tal y como afirmaran Sandra Guilbert y Susan Gubar</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/superindice">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+							<Content><?ACE 4?> </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>Guilbert, Sandra y Gubart, Susan. 1979. </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>The Madwoman in the Attic. The woman writer and the Nineteenth Century Literary Imagination</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>. New Haven: Yale University Press.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, era común, y casi necesario para las escritoras, rebajar sus palabras. Ibarbourou comienza su discurso, titulado </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Casi en pantuflas</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, precisamente, afirmando lo difícil que es referirse a su obra poética al carecer ésta de trascendencia. No parece haber, de este modo, ningún indicio de feminismo en la introducción de su ponencia; de hecho, al definir la labor del poeta (al cual considera un </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>medium</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> entre una voz superior y la poesía), lo define como un hombre, usando el genérico que incluye y diluye la existencia de la mujer. Hasta ese momento, Ibarbourou no transgrede el discurso patriarcal en ninguno de sus aspectos: rebaja su trabajo al ser mujer, no considera hacer ningún aporte intelectual, define al poeta como un hombre. Pero aquí es donde se produce un giro importante en su línea argumental: «Y se llame Wilde, o Verlaine, o Darío, o Baudelaire, o Rimbaud o D´Annunzio y sea un vagabundo, un vicioso, un bebedor, un ególatra. Lo mismo es para la humanidad reverente, y lo mismo, sobre todas las brumas, triunfa su llama». Es decir, según Ibarbourou, la gente suele darle al poeta una áurea de santidad que no posee, especialmente el poeta por antonomasia, un hombre. Y lo que es más, por el hecho de ser poeta y hombre, su capacidad creadora no es cuestionada ni su vida es puesta en tela de juicio. Ibarbourou refuerza esta idea con el ejemplo de Verlaine:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Hubiera sido curioso preguntarle a Verlaine, que sobre las mesas de los cafés y entre ajenjo y ajenjo escribía sus poemas, cómo realizaba su obra. El pobre ser, tartamudo de alcohol, con los ojos turbios y el entendimiento turbado, se hubiera encogido de hombros, más elocuente en su respuesta muda que en la pretensión de explicarse con cien palabras hipantes y tartajosas.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Esto no ocurre con las mujeres, e Ibarbourou siente que al pedírsele que defina su poesía se la está cuestionando, y lo confirma al decir que se sabe atrapada en una «época de realidad impositiva y rotunda». Por eso al referirse a su manera de crear confiesa una vida sencilla, que la aleja del estereotipo del poeta hombre. Para Ibarbourou, como para las otras dos escritoras, tal y como veremos más adelante, el acto de creación poética ocurre en soledad, en un ambiente simple y cotidiano:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Yo sé que voy a decepcionar a muchos lectores desconocidos de esta inevitable –¡ay, sí, inevitable!– confidencia de hoy. Decirles que no uso vestiduras flotantes, ni luces veladas, ni lámparas de oro, ni divanes cubiertos con pétalos de rosas...., o rizadas violetas, según la estación, es tal vez un desafío que puede costarme caro. Decir que mi torre de marfil es una amable habitación querida, en lo alto de mi casa, con dos grandes ventanas abiertas a la vida, al mar, a un paisaje terrestre lleno de árboles y de viviendas pobres, quizá no sea hábil.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Aquí, Ibarbourou se cuestiona la posibilidad de ser honesta en ese momento, de transgredir la norma, de contradecir lo que se espera de ella. Su confesión, creo, va más allá del hecho de que no escribe rodeada de boato y ceremonia; su confesión radica en admitir que, muchas veces, ha jugado el juego de roles establecido. Tal como lo hiciera en sus versos, aparenta sumisión, luego se rebela, para posteriormente autocensurarse antes de ser censurada por otros</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/superindice">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+							<Content><?ACE 4?> </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>Lo anterior se puede relacionar con el concepto desarrollado por Dana Crowley Jack (</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Silencing the Self: Women and Depression</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>. New York: Harper Paperbacks, 1993) de «discurso de la melancolía femenina» y puede ser resumido como el vacío que se produce en la mujer cuando, en la lucha de estas dos voces (la del yo y la perspectiva fuera del yo, generalmente moralista y condenatoria), se reprime la propia para poder calzar con la imagen dominante de lo que «debe ser».</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>. Esta preocupación la ilustra Ibarbourou con una anécdota (real o imaginaria) en que una mujer le pregunta: «– ¿Se suelta usted el pelo para hacer versos? No –le contesté torpemente–. Mi moño no me impide recibir el mensaje de los dioses. Resentida y decepcionada, me dio vuelta la espalda. Estoy segura que nunca más abrió mis libros». Ibarbourou denuncia en esta historia de apariencia inocente o simplemente graciosa el riesgo de ser olvidada como escritora, si no se calza con el patrón impuesto para la mujer. Por eso su ponencia la termina volviendo a referirse a esta historia diciendo:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>A veces pienso, con remordimiento y con pena, lo aseguro, en la mujer que me preguntó ingenuamente si me destrenzaba el cabello cuando hacía versos. Si lo hubiera pensado un poco, tendría que haberle contestado que sí. Además, sólo Dios sabe, después de todo, si estas mínimas confesiones que hoy tengo que hacer en voz alta no son, por la misma causa, una felonía.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Con estas palabras Ibarbourou protege sus afirmaciones de las críticas, porque tal vez todo sea mentira, tal vez todo lo que ha dicho no sea más que una «felonía». Tal como insinúa en el título </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Casi en pantuflas</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, pareciera que nos abre las puertas a su mundo íntimo, pero no lo hace completamente. Parece confesarse, pero no lo hace. Critica el discurso establecido y se retracta.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Alfonsina Storni</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>La segunda intervención de aquel encuentro fue la de la argentina Alfonsina Storni. En 1938, cuando daba esta ponencia, se encontraba ya al final de su carrera. Por supuesto, ella aún no sabía que habría de morir en un punto al otro lado del Mar del Plata ocho meses más tarde. Storni ya había publicado cuatro libros de poemas, varias obras de teatro y se encontraba trabajando en el que sería su último libro, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Mascarilla y trébol</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, publicado en Septiembre, un mes antes de su muerte.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Storni, a diferencia de Ibarbourou, tenía una postura feminista mucho más abierta, la cual se refleja no sólo en su vida, sino también en su poesía. Como dice de ella Dolores Koch: «Fue la más auténticamente intelectual de las (…) mujeres que en su época se destacaron en la poesía»</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/superindice">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+							<Content><?ACE 4?> </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>Koch, Dolores. 1985. «Delmira, Alfonsina, Juana y Gabriela: [Apuntes poetas Hispanoamericanas]», Revista Iberoamericana 132-133: 723-729.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>. Ya en </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>El dulce daño</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, su segundo libro, aparecen temas relacionados con la problemática feminista. Los arquetipos femeninos son parodiados, en muchos de sus poemas como «La loba», así como en otros como «Tú me quieres blanca» y «Hombre pequeñito», donde ironiza la figura del hombre, un ser inferior a la mujer, pero paradójicamente su opresor. En su ponencia, titulada </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Entre un par de maletas a medio abrir y las manecillas del reloj</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, escrita en un tren la noche anterior, Storni revela sus primeros años de vida y su relación con la literatura, relatando hechos anecdóticos como haber robado el libro con que aprendió a leer a los seis años. Y luego lo que ella considera el germen de su labor de escritora: la mentira:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>A los ocho, nueve y diez, miento desaforadamente: crímenes, incendios, robos, que no aparecen jamás en las noticias policiales. Soy una bomba cargada de noticias espeluznantes; vivo corrida por mis propios embustes; alquitranada en ellos; meto a mi familia en líos; invito a mis maestros a pasar las vacaciones en una quinta que no existe; trabo y destrabo; el aire se hace irrespirable; la propia exuberancia de mis mentiras me salva.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>La mentira es para Storni, lo que la felonía para Ibarbourou: una forma de escape de un mundo injusto y difícil, representando así la posibilidad de vivir en un mundo paralelo. Desde ese momento, Alfonsina Storni aprende a ocultar lo que escribe. La poesía se hace parte de su vida, pero siempre de una vida paralela, privada y solitaria. Como ella misma lo describe en su ponencia:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Desde entonces los bolsillos de mi delantal, los corpiños de mis enaguas, están llenos de papeluchos borroneados que se me van muriendo como migas de pan.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Más adelante relata el momento en que escribió su primer libro:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>«Clavada en mi sillón, al lado de un horrible aparato para imprimir discos dictando órdenes y correspondencia a la mecanógrafa, escribo mi primer libro de versos, un pésimo libro de versos. ¡Dios te libre, amigo mío, de </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>La inquietud del rosal</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>...!»).</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Al igual que Ibarbourou, rebaja su propia escritura, actitud común en las escritoras de entonces. Además, Storni se justifica diciendo que lo escribió para «no morir», relacionando así la escritura con una forma de evasión de un mundo ingrato. Es interesante que, luego de esta aclaración, ella misma lea uno de sus poemas, en el que dice ser la primera de una larga cadena de mujeres en su familia que rompió con las ataduras de un mundo represivo. A pesar de ello, lo introduce con una pregunta, que tiene como propósito restar credibilidad a sus versos, haciéndolos menos «agresivos»:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>¿Era verdad lo que expresé más tarde, en mi tercer libro de versos, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Irremediablemente</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, también malo, diciendo:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
+				<Content>Pudiera ser que todo lo que en verso he sentido No fuera más que aquello que nunca pudo ser, No fuera más que algo vedado y reprimido De familia en familia, de mujer en mujer.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Para luego concluir:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Y todo esto mordiente, vencido, mutilado. Todo esto que se hallaba en su alma encerrado, Pienso que sin quererlo lo he libertado yo.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>En este poema Storni declara que su poesía es una forma de liberar no sólo a ella, sino incluso a su madre y todas las mujeres de la «casa materna». Con su oficio de poeta transforma su voz en la voz de otras mujeres. Es lo que ocurre con todas las escritoras, pero particularmente con las poetas, porque, y usando las palabras de Cixous y Clément: «la poesía existe sólo sacando fuerzas del inconsciente, y el inconsciente, el otro país sin límites, es donde sobrevive la mujer reprimida»</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/superindice">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+							<Content><?ACE 4?> </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>Cixous, Hélène y Clément, Catherine. 1986. </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>The newly born woman</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>. Minneapolis: University of Minnesota Press. Trans. Wing, B.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Storni continúa su conferencia planteando un tema que ha estado presente en la crítica literaria, que identifica la poesía como casi completamente autobiográfica; problema que afecta a los poetas en general, pero particularmente a las mujeres, cuyos poemas se suelen analizar en relación con sus vidas. Si esto fuera cierto, la labor de las poetas sería menor, ya que no implicaría ningún trabajo creativo. Storni dice:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>¿Mi poesía, era, pues, rebeldía, desacomodo, antigua voz trabada, sed de justicia, amor del amor enamorado, o una cajita de música que llevaba en la mano, y sonaba sola, cuando quería sin clave para herirla? ¿No es, por otra parte, el poeta, un fenómeno que en sí mismo ofrece pocas variantes, una antena sutilísima que recibe voces que le llegan no se sabe dónde y que traduce no se sabe cómo?.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Luego de lanzada la pregunta, no la contesta, dejando la interrogante en el aire, y excusándose por no poder contestarla, debido a la falta de tiempo, para luego definir brevemente la labor del poeta. Para Alfonsina Storni el poeta es una mezcla de animal, y de ser elegido que sirve de puente entre el mundo real y un mundo imaginado, que en su caso sirve de voz a otras mujeres que no la tienen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> Gabriela Mistral</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>De nuestras tres poetas, Gabriela Mistral es la que alcanzó mayor notoriedad como escritora al recibir el Premio Nobel de Literatura en el año 1945. Mistral es, en su escritura, la menos feminista de las tres poetas. En sus poemas nunca aspira al amor físico de un hombre como Ibarbourou; de hecho, sus poemas más conocidos son los escritos a los niños y que reflejan una imagen de madre y maestra. Por ello, llama la atención que, a pesar de ser la menos feminista en su escritura, su ponencia es la que contiene la crítica más directa al sistema patriarcal.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Mistral parte su presentación invocando a otras poetas uruguayas que antecedieron a nuestras escritoras: Delmira Agustini y María Eugenia Vaz Ferreira. Mistral es la única de las tres que hace referencia a otras poetas en su discurso y que se inserta a sí misma dentro de una tradición no patriarcal en la poesía: «Me siento como una acumulación de hablas reunidas. Apenas llevo el acento individual, la voz que lleva un nombre solo». Junto con ello, prosigue su presentación, advirtiéndole al Ministro de Educación uruguayo, quien ha organizado este encuentro, de que no encuentre la respuesta que busca en esta conferencia: «Yo me temo que vaya a fracasar la linda intención del Ministro Aedo de someternos a una encuesta verbal, a una confesión clara, a un testimonio. Me temo que fracase a causa de nuestra malicia de mujeres y, sobre todo, de nuestro radical desorden de mujeres».</Content>
+				<Br />
+				<Content>Con gran ironía advierte, siguiendo la imagen estereotípica de la mujer, que puede ser que no hagan lo que se les pide, para luego agregar que siente que las llaman a juicio, coincidiendo en este punto con la observación hecha por Ibarbourou. Por ello, cuando va a introducir el tema de cómo compone sus versos dice con sarcasmo: «Ahora voy a obedecer al Ministro», para luego hablar de cómo escribe, diciendo: «los hombres son tanto o más vanidosos que las mujeres. Las mujeres no escribimos solemnemente. Yo escribo en una tablita y el escritorio nunca me ha servido para nada». En este punto concuerda con Ibarbourou, quien, como ya he mencionado, declara que su Torre de marfil es una simple habitación con mucha luz.</Content>
+				<Br />
+				<Content>Cuando comienza a hablar sobre los temas de su poesía, revela la nostalgia de su patria, lo que reflejaría, posteriormente en su libro </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Tala</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> de 1938 en poemas como «País de la Ausencia», «La extranjera» y «El fantasma». La razón de escribir es la misma que en Storni: una forma de conectarse con el yo perdido, con la infancia y también con la patria, la cual Mistral evitó en vida, debido a los constantes problemas que tenía en Chile, por ser «demasiado sincera»:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Escribir me suele alegrar, me suaviza el ánimo, me regala un día tierno, ingenuo e infantil. Me da la ilusión de haber estado algunas horas en mi patria real, en mi suelto antojo de costumbres, en mi libertad total.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Juana de Ibarbourou describía que su inspiración venía de alguna entidad superior de la cual ella era </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>medium</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>; Alfonsina Storni la identificaba con alguna idea que le surgía luego de haber observado algo; Mistral relaciona la inspiración con una melodía proveniente de la naturaleza, con la cual ella tuvo especial contacto en su infancia y que ella llama poesía anecdótica. Esta poesía anecdótica se refleja en el lenguaje de Mistral. Ella asevera en su presentación que su intención es acercarse lo más posible a la lengua hablada. Esto lo hace desplazando al lenguaje de sus signos habituales, cambiando el significado de algunos términos y creando otros como «mujerío». Pero lo más interesante, para mí el clímax de su ponencia, es lo que dice a continuación:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Es un sedimento de la infancia sumergida que, aunque resulte amarga y dura, me lava de los pecados del mundo y de una vileza esencial parecida al pecado original. Tal vez el pecado original no sea más que nuestra caída en la expresión racional y antirrítmica a la cual bajó el género humano que nos duele más a las mujeres por el voto que perdimos en la gracia de una lengua de expresión y de música que iba a ser la lengua del género humano.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Para Mistral, el lenguaje poético es un lenguaje universal del cual las mujeres han estado excluidas por siglos. La poesía es una forma de volver a la infancia, de conectarla a un mundo donde la discriminación del orden patriarcal y el discurso occidental no era notoria, menos para Mistral, que creció entre las montañas del norte de Chile en un mundo constituido únicamente por mujeres: su madre y su hermana. La represión y discriminación que sufriría después en su país por su fuerza al tratar de ganar un espacio reservado sólo para hombres, era aún algo desconocido. Mistral reconoce y denuncia la marginalización sufrida por la mujer en la literatura y lo hace en este párrafo.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Con este discurso, Gabriela Mistral deja clara su postura frente a la escritura y la poesía y su visión me parece que revela una conciencia feminista que servirá de ejemplo para las generaciones de escritoras posteriores.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Intercambios</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>En este punto analizaré brevemente los intercambios que se producen entre estas poetas: cómo se refieren a las otras, qué relación hay entre ellas y qué elementos comunes podemos extraer de estas ponencias.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Primero, todas reconocen la labor de las otras y demuestran su admiración y respeto por sus obras. Juana de Ibarbourou en esta ponencia llama a Mistral «Gabriela, la grande», porque «ella es América entera». Ibarbourou admiraba a Mistral con la que tuvo una relación amistosa. Su relación con Storni no fue muy cercana, debido a la gran diferencia de personalidad de ambas. Alfonsina Storni, por su parte, se refiere a ambas, Ibarbourou y Mistral, en su ponencia: «Mi presencia aquí quiere significar un homenaje a la uruguaya y a la chilena: a Gabriela y a Juana, y en ellas mi adhesión a la mujer escritora de América, mi fervor por su heroísmo cuya borra conozco». Storni siente que por ser poetas y mujeres, hay un nexo que las une. Con Mistral tuvieron una relación cercana. De hecho, ambas dedicaron poemas a la otra y manifestaron públicamente su mutua admiración. Las dos tenían mucho en común: origen humilde, autodidactas, profesoras en gran parte de sus vidas, mujeres solas, rechazadas en los ambientes de elite y literarios de sus países. Mistral dice de Storni en su ponencia:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>No ha sido otra que la jugarreta deliciosa del sueño de una noche de verano. Cuando más soltará sólo una pequeña prenda de la masa de sus secretos. Se burlará de nosotros y hará bien, porque nació para ello. La inteligencia afilada como el alfiler que la japonesa lleva en el moño, sacudió a Alfonsina, hermana siamés mía, por virtud de la cordillera.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>De Juana de Ibarbourou dice: «la naturaleza no ha querido dar su ancha fórmula y cuanto deja la naturaleza, es decir, Juana no puede contarles, curiosísimos varones interrogadores, cómo guarda disimulada su feminidad entera, cómo suelta la luz sin que le cueste trabajo (...) Estas son cosas muy serias aunque parecen inocentes». Mistral da con la clave de la escritura de Storni, Ibarbourou, tal vez porque lo sabe por experiencia propia: ambas de una forma u otra, revelan sólo una parte de lo que quieren decir. Ambas subvierten el discurso patriarcal: Juana, por medio de un aparente candor; Alfonsina, por medio de la ironía.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Por lo anterior, podemos concluir que las tres se saben portadoras de un poder, de una voz que intenta representar la voz de otras mujeres. Las tres conciben su poesía como una forma de escape, y el acto de la creación como una maternidad. Storni, Ibarbourou y Mistral utilizaron distintas maneras de hacerse escuchar y, sin saberlo, plantaron la semilla de toda la poesía femenina latinoamericana posterior.</Content>
+				<Br />
+				<Content>Creo que es importante volver a los orígenes, a las precursoras y mirar sus textos desde otra perspectiva. Darles la oportunidad que no tuvieron en vida y dejarles hablar sin censura porque, como dice Mistral:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Nuestra raza todavía no comprende eso que podría llamarse la guarda de los grandes muertos, el honrarlos cotidianamente y el amarlos para que nos perdonen la mano manca que tuvimos al darles la gloria</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/superindice">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+							<Content><?ACE 4?> </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>Mistral, Gabriela. 2004. </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Antología de Poesía y Prosa</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>. Jaime Quezada (comp.) Santiago de Chile: Ministerio de Educación-Fondo de Cultura Económica.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Casi en pantuflas</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>El pobre lego de aquel cuento de France que se llamó «El Titiritero de nuestra Señora», me ha dado un ejemplo de conformidad que mucho me sirve en la vida. De él quiero aprender, entre otras mínimas cosas inefables, a no tener el orgullo de dar, sino solamente, la beatitud de dar.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Confortada con tal ejemplo egregio, precioso y humilde, hoy dedico el sacrificio de leer en público unas páginas sin importancia —y digo sacrificio porque me cuesta mucho hacer lo que no sé, y que, por añadidura, me va mal— a mi amigo de años el ilustre profesor peruano Dr. Manuel Beltroy, que honra nuestra casa y por el que yo tengo una respuesta y profunda admiración, que el público de Montevideo ya sabe que está muy fundada; al Dr. Héctor Cuenca, huésped de mi país, y que, de hecho y derecho, dondequiera que esté, es siempre brillantísimo embajador de la alta intelectualidad venezolana, y a Gabriela, la grande, presente en los dos ofrecimientos anteriores, aun sin haberla nombrado, porque ella es América entera, porque nos sentimos conmovidos de ser sus compatriotas, porque ella realiza la unidad del continente por el milagro de su corazón y de su genio, y en la cortesía a cada uno, sea del Norte o del Sur, del país del petróleo o del verde llano jugoso, está siempre incluida de la cortesía para ella, como si fuera la diosa tutelar de esta tierra, que ama con toda su sangre indio-española, en la que estuviese encerrado el espíritu profético y expectante de la Casandra legendaria.</Content>
+				<Br />
+				<Content>Un azar de última hora nos da, junto a la figura prócer de Gabriela, la presencia de Alfonsina Storni, que tanto brillo le ha agregado a la poesía argentina con su verso dúctil y amargo, con la valentía de su sonrisa lírica. Aquí están las dos, para hacernos la confidencia de la misteriosa maternidad del verso.</Content>
+				<Br />
+				<Content>Montevideo está viviendo un mes de enero inolvidable, porque toda América ha venido a florecer en él, su juventud granada y sus hombres ilustres, en un ático torneo que agregará fama a esta ciudad, que ha hecho de las fiestas del espíritu casi sus fiestas nacionales.</Content>
+				<Br />
+				<Content>Las páginas que voy a leer —elección de mi noble amigo Eduardo de Salterain— tienen un nombre que recuerda el de un libro cruel e innecesario que todos conocemos. No he encontrado otro que mejor signifique lo que son ellas, y, aunque no es simpático, con él han de quedarse para siempre, como los que cargamos en la vida con la malaventura de un nombre feo, que también ha sido elegido por una íntima razón insustituible.</Content>
+				<Br />
+				<Content>Hablar de uno mismo, de su propia técnica, del proceso creador de sus obras, es cosa peregrina, difícil, casi imposible para quien no sigue un plan en su labor artística, ni realiza una obra filosófica, social, científica o trascendente, que se lo exija. La obra de arte, plástica o musical, se enriquece y perfecciona con un estudio continuado y metódico. El artista que desdeñe el duro aprendizaje de los maestros, y que se evada de su escolástica, está perdido. Lo que trajo a la vida como don esencial, muchas veces genial y hasta divino, se le pierde en el desconocimiento de los medios para expresarlo.</Content>
+				<Br />
+				<Content>Únicamente el poeta puede jactarse de estar libre para realizar su obra, que a veces adquiere el tono y el contorno dramático de una misión, cuando toma el acento de su época, y con él da el grito, o dice la verdad, o eleva el llamado, o realiza la profecía para los cuales la divinidad le otorgó la potencia lírica. La voz del poeta ha de ser espontánea; insensiblemente, en él se van acendrando los conocimientos, y creciendo el acervo cultural. Pero hombre que se ponga a estudiar la retórica y a aprender ritmos y medidas para luego hacer versos, podrá llegar a ser un menhir, un monolito, una infusión de adormideras, pero nunca un poeta. Además, el verdadero poeta —el mimetismo artístico es la forma más frecuente y más completa del engaño humano— siente dentro de sí una especie de mediumnidad que le hace confiado y humilde. Humilde, porque sabe bien que se le ha elegido para esa voz, como se elige un órgano para los cantos sacros. Él, en sí mismo, en simple cifra humana, no es más que un instrumento. Lo que se respeta en ese hombre victorioso es la elección de lo alto. Y tanto se respeta, tanto los demás hombres se inclinan ante el privilegio de haber sido de este modo preferido por el Gran Otorgador, que se le disculpan al pobre ser humano lleno de flaquezas todos sus errores y caídas, sólo porque en el vaso endeble se transparenta la chispa inmortal que Dios encendió dentro de su arcilla perecedera. Y se llama Wilde, o Verlaine, o Darío, o Baudelaire, o Rimbaud, o D´Annunzio, y sea un vagabundo, un vicioso, un bebedor, o un ególatra, lo mismo es para la humanidad reverente, y lo mismo, sobre todas las brumas, triunfa su llama. Hubiera sido curioso preguntarle a Verlaine, que sobre las mesas de los cafés y entre ajenjo y ajenjo escribía sus poemas, cómo realizaba su obra. El pobre ser, tartamudo de alcohol, con los ojos turbios y el entendimiento turbado, se hubiera encogido de hombros, más elocuente en su respuesta muda que en la pretensión de explicarse con cien palabras hipantes y tartajosas, Rimbaud, el genial adolescente trotamundos, escribió sus maravillosos poemas acurrucado al borde de los lejanos y misteriosos caminos de Asia y Oceanía, sobre la tapa de su cajón de vendedor ambulante. Una simple madera sin cepillar separaba dos mundos: arriba, la fastuosidad de sus versos que le darían la gloria; debajo, entre el pequeño cajón de negruzcas paredes, la falsa riqueza de los abalorios y la fealdad de su mercancía barata. Pero instintivamente la gente cree que el poeta, como el hierofante, siempre ha de estar revestido de sus ropajes de ceremonia y que no es posible que el privilegio de la creación inmortal no se halle rodeado de pompa. Se burla D´Annunzio, histrión; se sonríe de las vestiduras flotantes, los rojos velos y las lámparas veladas de madame de Noailles, y, sin embargo, le cuesta aceptar que el poeta, su poeta, sobre todo, sea sólo ese hombre más o menos elegante, más o menos pulcro, con quien se ha cruzado por la calle, y que, como todos, le ha devuelto normalmente su saludo. A mí misma se me pregunta con frecuencia: —¿Cuándo hace usted sus versos? ¿a qué hora? ¿Cómo? En muchas pupilas he visto una ansiedad tan grande de recibir una confidencia excepcional, que ganas me han dado, más de una vez, de ponerme a fraguar una suntuosa autonovela. Pero en esta época de realidad impositiva y rotunda, la creación artística apenas si es dueña del lujo de un poco de soledad para dar vida al poema, y aquella </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>mise en scène</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> de los románticos no cabe en este siglo de la mecánica que concede luz y voz a nuestras cosas sintéticas. Por mi parte, verazmente, yo no puedo decir sobre mí misma sino cosas muy comunes. Eso me entristece un poco. Sería muy lindo autorizar una leyenda y rodearse de una aureola espectacular.</Content>
+				<Br />
+				<Content>Una señora me preguntó una vez, cuando aún usaba mi corona de trenzas:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>¿Se suelta usted el pelo para hacer versos? —No —le contesté torpemente—. Mi moño no me impide recibir el mensaje de los dioses.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Resentida y decepcionada, me dio vuelta la espalda. Estoy segura que nunca más abrió mis libros. Otras personas creen que el poeta es una especie de forjador, asistido por Apolo y Vulcano, al que no dejan de preguntarle siempre que con él se encuentran:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Ligatures="false" OTFContextualAlternate="false">
+				<Content>—</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Y… ¿trabaja mucho?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Si se pudiera obtener en ese minuto una fotografía instantánea de su imaginación, se vería tal vez la imagen inconsciente y rarísima de una especie de cíclope jadeante, luchando con las consonantes como un enjambre de pequeños monstruos. Yo sé que voy a decepcionar a muchos lectores desconocidos en esta inevitable -¡ay, sí, inevitable!- confidencia de hoy. Decirles que no uso vestiduras flotantes, ni luces veladas, ni lámparas de oro, ni divanes cubiertos con pétalos de rosas…, o rizadas violetas, según la estación, es tal vez un desafío que puede costarme caro. Decir que mi torre de marfil es una amable habitación querida, en lo alto de mi casa, con dos grandes ventanas abiertas a la vida, al mar, a un paisaje terrestre lleno de árboles y de viviendas pobres, quizá no sea hábil. Confesar que no tengo una hora determinada para el advenimiento lírico, y que todas me resultan igualmente buenas si mi vida, muy llena de obligaciones, me concede alguna —mejor si es nocturna— en el correr de las veinticuatro del cuadrante, posible es que de</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" KerningValue="0">
+				<Content>f</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>raude a muchos. Pero la verdad tiene una pacífica y cómoda belleza y bajo ella me amparo. La luz solar también es poesía.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>No sé cómo será en otros la inspiración creadora del poema. Yo voy a decir, simplemente, cómo el verso llega a través de mí, desde su zona de milagro hasta mi realidad receptora y comunicante. Siempre las primeras estrofas se me aparecen como una centella, a veces provocadas por una emoción cualquiera, visual o interior, a veces sin ninguna causa controlable. Dije al principio que la realización poética auténtica no es más que una mediumnidad, convencimiento que abate todo orgullo, ya que es claro que el ser humano no es entonces más que el instrumento de las presencias invisibles.</Content>
+				<Br />
+				<Content>Muchas veces me ha pasado tener en la cabeza, como una obsesión, un verso, escribirlo, e inmediatamente, sin ponerme a pensar ni a buscar nada, continuar la composición como si obedeciese a un dictado misterioso, o como si un ser intangible me guiase la mano. Estos, por regla general, no requieren correcciones ni pulimento. Y casi siempre son los mejores. En el otro caso, tras ese relámpago de las estrofas iniciales, viene luego el trabajo de forja, la lucha con la magnífica riqueza de la palabra, para que ésta entregue justo el brillante que precisamos, para que el engarce toque la perfección, si es posible, para que la sustancia sea tan sutil y tan pura, que debajo suyo se vea como correr nuestra propia sangre, fulgurar nuestra alma, y resplandecer, aunque sea con un esplendor sellado, la luz misteriosa de la vida. Esto es todo lo que yo puedo decir de mi proceso creativo. Puedo agregar, eso sí, que el poema logrado da una embriaguez sin nombre, y un afán comunicativo que suele hacerlo a uno feroz. Falsamente mansos, solemos decir al primero que se nos enfrenta después del prodigioso advenimiento:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>—Anoche hice unos versos que quizá no estén mal. ¿quiere usted que se los lea, o que se los diga?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>No importa gran cosa que el que escucha tenga en seguida expresión de víctima propiciatoria. Lo que necesitamos es paladear en voz alta la belleza llegada al mundo a través de nuestra sensibilidad. A veces, en la calle misma, uno se abstrae para irse repitiendo mentalmente, a sí propio, el verso amado, como la madre se regocija y abstrae contemplando al hijo recién nacido. Esto, quizás, es lo que ha dado origen al concepto común del trance inspirado de los poetas, y de su frecuente evasión de la realidad circundante que lo vuelve lejano de la multitud que lo rodea, y suele dar a su rostro una curiosa expresión de ausencia. Tan imperiosa es esa necesidad de saborear la belleza de uno mismo, que cuando no se cuenta con oídos complacientes, con interlocutores bondadosos dispuestos a cubrirnos de adjetivos de alabanza, como antiguamente se cubría de mitos a los triunfadores, el propio poeta se convierte en su público, y a solas repite su poema hasta cansarse.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Esto, que a lo mejor no es más que un hábito mío —estoy hablando en rigurosa unidad personal—, dio origen en mi casa a un incidente burlesco, que en mi familia se recuerda siempre con carcajadas unánimes. Tengo sobre una repisa un pequeño papagayo de Sajonia, que me trajo de Europa una amiga de buen gusto. Cierto día mi madre interrogó a una de las personas de servicio:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>—¿Dónde está la señora?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>E ingenuamente contestó la muchacha, recién llegada del campo:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>—Creo que está arriba, enseñándole a hablar al lorito.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Encerrada en mi «Torre Juana», yo me embriagaba repitiendo en voz alta un poema recién hecho. La buena criatura interpretó a su modo el hecho insólito de mi monólogo que trascendía a través de la puerta cerrada.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Otros, quizás, me hubieran atribuido un arrebato de inspiración declamatoria que hubiese hecho sonreír a algunos y a los demás les hubiese dado base para una de esas leyendas que suelen correr sobre los artistas:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>—Con el cabello suelto, envuelta en gasas azules, Fulana de Tal se paseaba bajo la luna, dialogando con las musas.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>¡Todos tienen derecho a dejar hablar su imaginación, aun a costa del ridículo de alguien! Porque lo inverosímil es tan necesario a lo exacto cotidiano como la proporción de ácido carbónico que hace respirable el oxígeno puro. Seguramente tiene mucho de verdadero y razonable la sospecha de que Homero no sea un hombre solo, sino toda una raza en muchas centurias. Hasta el ser inculto, que no sabe crearse héroes ni semidioses, imagina, para su necesidad de cosas sobrenaturales, luces malas, duendes y fantasmas.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>No es raro, pues, que el poeta, elegido por lo misterioso para armonía de sus voces inspiradas, no pueda ser para la masa, para el pueblo, que encuentra en sus versos las emociones de su propia alma y las exaltaciones de su diaria ambición insatisfecha, un ser distinto de todos, una criatura magnificada por su destino lírico.</Content>
+				<Br />
+				<Content>A veces pienso, con remordimiento y con pena, lo aseguro, en la mujer que me preguntó ingenuamente si me destrenzaba el cabello cuando hacía versos. Si lo hubiera pensado un poco, tendría que haberle contestado que sí. Además sólo Dios sabe, después de todo, si estas mínimas confesiones que hoy tengo que hacer en voz alta no son, por la misma causa, una felonía.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Entre un par de maletas a medio abrir y las manecillas del reloj</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Estoy en San Juan; tengo cuatro años; me veo colorada, redonda, chatilla y fea. Sentada en el umbral de mi casa muevo los labios como leyendo un libro que tengo en la mano y espío con el rabo del ojo el efecto que causa en el transeúnte. Unos primos me avergüenzan gritándome que tengo el libro al revés y corro a llorar detrás de una puerta.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>A los seis robo, con premeditación y alevosía, el texto de lectura en que aprendí a leer. Mi madre está muy enferma en cama; mi padre perdido en sus vapores. Pido un Peso Nacional para comprar el libro. Nadie me hace caso. Reprimendas de la maestra. Mis compañeras van a la carrera en su aprendizaje. Me decido. A una cuadra de la escuela Normal a la que concurro, hay una librería: entro y pido </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>El Nene</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>. El dependiente me lo entrega; entonces solicito otro libro cuyo nombre invento. Sorpresa. Le indico al vendedor que lo he visto en la trastienda. Entra a buscarlo y le grito: «Allí le dejo el peso» y salgo volando hacia la escuela. A la media hora las sombras negras, en el corredor, de la directora y de aquél, encogen mi corazoncillo. Niego; lloro; digo que dejé el peso en el mostrador; recalco que había otros niños en el negocio. En mi casa nadie atiende reclamos y me quedo con la pirateada.</Content>
+				<Br />
+				<Content>Crezco como un animalito, sin vigilancia, bañándome en los canales sanjuaninos, trepándome a los membrillares, durmiendo con la cabeza entre pámpanos. A los siete años me aparezco en mi casa a las diez de la noche acompañada por la niñera de una casa amiga a donde voy después de mis clases y me instalo a cenar. A los ocho, nueve y diez, miento desaforadamente: crímenes, incendios, robos, que no aparecen jamás en las noticias policiales. Soy una bomba cargada de noticias espeluznantes; vivo corrida por mis propios embustes; alquitranada en ellos; meto a mi familia en líos; invito a mis maestros a pasar las vacaciones en una quinta que no existe; trabo y destrabo; el aire se hace irrespirable; la propia exuberancia de mis mentiras me salva. En la raya de los catorce años, abandono. A los doce años escribo mi primer verso. Es de noche; mis familiares ausentes. Hablo en él de cementerios, de mi muerte. Lo doblo cuidadosamente y lo dejo debajo del velador para que mi madre lo lea antes de acostarse. El resultado es esencialmente doloroso; a la semana siguiente, tras una contestación mía levantisca, unos coscorrones frenéticos pretenden enseñarme que la vida es dulce.</Content>
+				<Br />
+				<Content>Desde entonces los bolsillos de mi delantal, los corpiños de mis enaguas, están llenos de papeluchos borroneados que se me van muriendo como migas de pan.</Content>
+				<Br />
+				<Content>Desde esa edad hasta los quince, trabajo para vivir y ayudar a vivir. De los quince a los dieciocho, estudio de maestra y me recibo Dios sabe cómo. La cultura literaria que en la Normal absorbo para en Andrade, Echeverría, Campoamor...</Content>
+				<Br />
+				<Content>A los diecinueve estoy encerrada en una oficina; me acuna una canción de teclas; las mamparas de madera se levantan como diques más allá de mi cabeza; barras de hielo refrigeran el aire a mis espaldas; el sol pasa por el techo pero no puedo verlo; bocanadas de asfalto caliente entran por los vanos y la campanilla del tranvía llama distante.</Content>
+				<Br />
+				<Content>Clavada en mi sillón, al lado de un horrible aparato para imprimir discos dictando órdenes y correspondencia a la mecanógrafa, escribo mi primer libro de versos, un pésimo libro de versos. ¡Dios te libre, amigo mío, de </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>La Inquietud del Rosal</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>!... Pero lo escribí para no morir. Era verdad lo que expresé más tarde, en mi tercer libro de versos, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Irremediablemente</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, también malo, diciendo:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Pudiera ser que todo lo que en verso he sentido no fuera más que aquello que no pudo ser. No fuera más que algo vedado y reprimido de familia en familia, de mujer en mujer.</Content>
+				<Br />
+				<Content>Dicen que en los solares de mi gente, medido estaba todo aquello que se debía hacer: dicen que silenciosas las mujeres han sido de mi casa materna... ¡Ah!, bien pudiera ser...</Content>
+				<Br />
+				<Content>A veces en mi madre, apuntaron antojos de liberarse, pero se le subió a los ojos una honda amargura, y en silencio lloró.</Content>
+				<Br />
+				<Content>Y todo esto mordiente, vencido, mutilado, todo esto que se hallaba en su alma encerrado, pienso que sin quererlo, lo he libertado yo.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>¿Fue verdad también lo que, en tiempos de mi libro </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Ocre</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, confesé, desconociendo la mayor parte de mi obra anterior?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Me faltaba un amor y ya lo tuve; una infamia también y di con ella; un engaño y lo hallé; la savia sube</Content>
+				<Br />
+				<Content>a cupular mi vida en una bella rama cargada que pesarme siento y empiezo a madurar: estate atento.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>¿Mi poesía era pues, rebeldía, desacomodo, antigua voz trabada, sed de justicia, amor del amor enamorado, o una cajita de música que llevaba en la mano, y sonaba sola, cuando quería sin clave para herirla?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>¿No es, por otra parte, el poeta, un fenómeno que en sí mismo ofrece pocas variantes, una antena sutilísima que recibe voces que le llegan no se sabe de dónde y que traduce no sabe cómo?</Content>
+				<Br />
+				<Content>Desde luego que interesa al vivo conocer cómo lo hirió la honda; sus rechazos; afinidades; los vientos perturbadores: tormentas; interferencias; los buenos y malos obreros afinadores, retardadores, o amplificadores que modificaron la transmisión.</Content>
+				<Br />
+				<Content>Sabido es que el carácter individual y las circunstancias en que éste se despliega son los reguladores de la obra de un escritor; pero al entrar en tales meandros, respecto de la modestia mía, me es hoy materialmente imposible por falta, repito, de tiempo, para escarbar y cepillar mis recuerdos e ideas.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-30">
+				<Content>Texto leído por Gabriela Mistral</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Señores Ministros:</Content>
+				<Br />
+				<Content>La ocurrencia feliz de reunimos aquí a Juana, a Alfonsina y a mí es muy uruguaya, es decir, muy llena de gracia. Ya dije antes que el Espíritu Santo es la divina persona que más llueve sobre la raza uruguaya.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Recordaremos en primer lugar a nuestras dos grandes muertas, tan nuestras como vuestras uruguayos. Pensaremos en Delmira Agustini, maestra de todas nosotras, raíz hincada más o menos en las que aquí estamos, y pensaremos a María Eugenia, alma heroica y clásica, y en lo heroico y en lo clásico hubiera querido pastorearnos a todas, pero que se nos fue demasiado pronto.</Content>
+				<Br />
+				<Content>Yo me temo mucho que vaya a fracasar la linda intención del señor Ministro Aedo, de someternos a una encuesta verbal, a una confesión clara, a un testimonio. Y que fracase a causa de nuestra malicia de mujeres y, sobre todo, de nuestro radical desorden de mujeres. Querer reducir a normas y poner en perfil neto nuestro capricho consuetudinario, es una empresa de romanos que nosotras podemos desbaratar entera, fingiendo que la obedecemos.</Content>
+				<Br />
+				<Content>Parece que nos llaman a juicio y las llamadas somos:</Content>
+				<Br />
+				<Content>Primero una Diana de la campiña uruguaya, que adentro de su categoría de diosa agraria guarda disimulada su feminidad entera. La naturaleza hasta hoy —que yo sepa— no ha querido dar su ancha fórmula, y cuanto más, deja caer una gota de su secreto parecida a una sola uva exprimida en la manaza extendida del averiguador.</Content>
+				<Br />
+				<Content>La naturaleza, es decir Juana, no puede contar a vosotros, curiosísimos varones interrogadores, cómo ella se las arregla para soltar la luz sin darse ningún trabajo, y cómo hace para que el agua de su poesía resulte a la vez eterna y mía.</Content>
+				<Br />
+				<Content>Son cosas muy serias aunque parezcan inocentes, la naturaleza hija de Dios y Juana hija del Uruguay. Y nadie tampoco acertaría, con las índoles, modos, yo no quiero decir la horrible palabra método, de Juana de América, dueña de la llave inefable de nuestra raza.</Content>
+				<Br />
+				<Content>Siempre que voy hacia Juana —y la visito con frecuencia fiel— yo la dejo como me la hallé, en su candor y su misterio esencial. Su misterio es el peor, es el misterio de lo luminoso y no de lo sombrío, y ese misterio lleno de claridad, burlaría al propio doctor Fausto.</Content>
+				<Br />
+				<Content>Allí está, ahí, el agua cayendo llena de luz y de gozo. Beber, callar mientras se bebe y agradecer. Esa es toda la política que nos corresponde, a mujeres y a hombres, respecto del caso de Juana de América.</Content>
+				<Br />
+				<Content>En cuanto a Alfonsina, que antes de sus canas y después de sus canas, no ha sido otra cosa que la jugarreta deliciosa del sueño de una noche de verano, también ella va a dar un salto sobre el plan del ministro Aedo. Ya lo dio. Ella se ha reído toda su vida y por igual, de sus amigos y enemigos. Y cuanto más, soltará una pequeña prenda de la masa de sus secretos, y esta prenda despertará en vosotros más apetito de conocer el resto. Y ella, castellanizo la palabra, se burlará sin ningún respeto de nosotros y hará muy bien, porque nació para eso.</Content>
+				<Br />
+				<Content>Viviendo dentro de razas románticas, —la inteligencia afilada como el alfiler que la japonesa lleva en el moño— se sacudió Alfonsina el extremoso romanticismo criollo. Por ahí he visto una barbaridad, una sintaxis de esas que son mías, perdón.</Content>
+				<Br />
+				<Content>Alfonsina, hermana siamés mía por virtud de la cordillera que nos puso a querernos sin mirarnos nunca a la cara, una del este, la otra del oeste. Cada vez que yo he querido definirla, o sea confesarla, se ríe de esta Gabriela medio cabrera del valle de Elqui y medio lectora de la cartilla. Aquí está Alfonsina en recinto oficial y en medio de ceremonia pedagógica, haciendo una vez más su jugarreta.</Content>
+				<Br />
+				<Content>Yo le doy las gracias de tener cuanto yo no tengo y de regalarme lo que no me cayó a mí en suerte. Lo que tiene es el precioso ingenio europeo, el aguijón que perdonamos porque el primer punto en el cual se hinca es el cuerpo mismo de la heridora.</Content>
+				<Br />
+				<Content>Alfonsina es una abeja inédita entre las abejas contadas por los poetas griegos. Ella es la abeja que en el vuelo se persigue a sí misma, antes de caer sobre el matorral de mirtos. La abeja que danza un baile a veces desgarrante, buscando su propia carne para sangrarla con un gesto de juego, que yo le entiendo y que suele hacerme llorar.</Content>
+				<Br />
+				<Content>Yo vivo en este momento una aventura que suele ocurrirme. La de sentirme en mi sangre un rumor, casi un tumulto, que quiere hablar por mi boca. Esta vez ese tumulto es el de todas las poetisas uruguayas, desde las de Montevideo hasta las de Artigas. Las que han venido lo mismo que las ausentes, desde Luisa Luisi, criatura de mi sangre por la artesanía doble del verso y de la lección, a quien he estado unida en veinte años de amistad entrañable, hasta mis dos ángeles custodios de las calles de Montevideo, Sara y Ester, que golpean a mi garganta y quieren también dar su mensaje. Me siento como un viejo cuerno lleno de esas voces ajenas; me siento como una verdadera vaina de hablas reunidas, y apenas tengo en este momento esa cosa fea que se llama el acento individual, la voz que lleva un nombre solo.</Content>
+				<Br />
+				<Content>Ahora voy a obedecer a nuestro Ministro y a nuestro Director de Educación, contando cómo escribo. Si es que yo sé alguna cosa clara y efectiva sobre cómo escribo.</Content>
+				<Br />
+				<Content>El tema que me dieron fue esto: cómo hace usted sus versos. Y me ha hecho acordar de una preciosa parábola de Pedro Prado, el chileno.</Content>
+				<Br />
+				<Content>Pedro Prado cuenta que una vez una señora entró a un jardín y le pidió una rosa al jardinero, con esa tremenda superficialidad que tenemos las mujeres, una rosa. Pero el jardinero era un varón muy profundo, era un viejo jardinero, muy vivido. Y el jardinero le contesta: Yo le doy a usted la rosa, la que quiera, siempre que la corte donde ella comienza. Entonces la señora se va derecho a cortar, allá a medio tallo, por ahí. Y le dice el jardinero: No, la rosa no comienza ahí. ¿Usted cree que la rosa va a comenzar casi en el pedúnculo? ¡Ah! Dice la señora, y entonces va con la tijera más abajo. ¡Ah, no! Le dice, es que usted se equivoca. ¿Usted cree que ahí comienza esa cosa florida que hay allá arriba? ¿Y con qué savia se alimentaría? ¡Ah! Dice la señora, y va a cortar sobre el suelo. ¡Ah no! Le dice el jardinero, ¿usted cree que es ahí precisamente donde ella comienza? ¿Y la raíz? ¡Ah! dice ella, entonces la voy a arrancar. Y le dice el jardinero. ¿Usted cree que comienza en las raíces? ¿Y de dónde vendría todo lo que tiene? La señora se queda muy perpleja y no la cortó.</Content>
+				<Br />
+				<Content>El poema tampoco sabemos dónde comienza. ¿Comienza en el momento en que se hace? ¡Ah, no!</Content>
+				<Br />
+				<Content>¿Comienza en el momento en que nos cae esa especie de puntada de la emoción, esa lanzada de la emoción? Porque cuando la lanzada nos trabaja, ya venía de tan tarde el hacerse la carne tierna para la lanzada.</Content>
+				<Br />
+				<Content>Habría que remontar a todo lo que nos ha ido trabajando el corazón, para esa calidad de la carne que le damos a la cuchillada. Es decir, habría que comenzar en la infancia, donde todo comienza.</Content>
+				<Br />
+				<Content>Pero, cuando nacemos ya traemos tanto capital viejo y deuda grande.</Content>
+				<Br />
+				<Content>Habría que comenzar con toda la muchedumbre de nuestros antepasados. ¡Menudo trabajo contar cómo se hacen los versos!</Content>
+				<Br />
+				<Content>Grandes curiosos que nos escucháis: las mujeres no escribimos solemnemente como Bufón que se ponía para el trance su chaqueta de mangas con encajes y se sentaba con la mayor solemnidad del mundo a su mesa de caoba. Los hombres, posiblemente sean tanto o más vanidosos que las mujeres.</Content>
+				<Br />
+				<Content>Yo escribo sobre mis rodillas, en una tablita con que viajo siempre, y la mesa escritorio nunca me sirvió para nada ni en Chile ni en París ni en Lisboa.</Content>
+				<Br />
+				<Content>Escribo de mañana o de noche y la tarde no me ha dado nunca inspiración, sin que yo entienda la causa de su esterilidad o de su mala gana respecto de mí.</Content>
+				<Br />
+				<Content>Creo no haber hecho jamás un verso en cuarto cerrado, ni en cuarto cuya ventana diese a un horrible muro de casa urbana. Siempre me afirmo en un pedazo de cielo, que Chile me dio azul y que Europa me da borroneado.</Content>
+				<Br />
+				<Content>Mejor se ponen mis humores si yo afirmo mis ojos viejos en una masa de árboles tiernos.</Content>
+				<Br />
+				<Content>Mientras yo fui criatura estable en mi raza y mi país, escribí lo que veía o tenía muy inmediato. Escribí, como quien dice, sobre la carne caliente del tema.</Content>
+				<Br />
+				<Content>Desde que soy criatura vagabunda, desterrada voluntaria, parece que no escriba sino en el medio de un vaho de fantasmas. Todo el mundo, el aire, el cielo y la tierra se me han vuelto pura saudade. La tierra de América y la gente mía, viva o muerta, se me han vuelto un cortejo melancólico pero muy fiel, que más que envolverme me forra y me oprime, y rara vez me deja ver realmente el paisaje y la gente extranjera.</Content>
+				<Br />
+				<Content>Escribo sin prisa generalmente, y otras veces con una rapidez vertical, de rodado de piedras en la cordillera.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Me irrita en todo caso detenerme y tengo siempre al lado cuatro o seis lápices con punta, porque soy bastante perezosa, y tengo el hábito regalón de que me den todo hecho excepto los versos.</Content>
+				<Br />
+				<Content>En el tiempo en que yo me peleaba con la lengua exigiéndole una tremenda intensidad, me solía oír a mí misma mientras escribía un crujido de dientes muy colérico. El rechinar de la lija sobre el filo romo del idioma.</Content>
+				<Br />
+				<Content>Ahora ya no me peleo con las palabras sino con otra cosa. He cobrado el disgusto y el desapego de mi poesía cuyo tono no es el mío, por ser demasiado enfático. No me excuso sino de aquellos poemas donde reconozco mi lengua hablada, eso que llamaba don Miguel el vasco, la lengua conversacional.</Content>
+				<Br />
+				<Content>Corrijo bastante más de lo que la gente puede creer, leyendo unos versos que aún así me quedan bárbaros.</Content>
+				<Br />
+				<Content>Salí de un laberinto de cerros y algo de ese nudo sin desatadura posible queda en lo que hago, sea verso o sea prosa.</Content>
+				<Br />
+				<Content>Escribir me suele alegrar. Siempre me suaviza el ánimo y me regala un día ingenuo, tierno, infantil. Ando trayendo la sensación de haber estado por unas horas en mi patria real, en mi costumbre, en mi suelto antojo, en mi libertad total. Esos días en que hago alguna poesía, buena o mala, mi ánimo es el de quien estuviera casado con una muchedumbre de criaturas, casada con el mundo.</Content>
+				<Br />
+				<Content>Me gusta escribir en cuarto pulcro, aunque soy persona harto desordenada. El orden parece regala espacio y este apetito de espacio lo tienen mi vista y mi alma.</Content>
+				<Br />
+				<Content>En algunas ocasiones he escrito siguiendo un ritmo recogido en un carro que iba por la calle lado a lado conmigo. O siguiendo los ruidos de la naturaleza, que de más en más se me funde en una especie de canción de cuna. Pinares, marejada, ruido de álamos, todo eso al llegar a mi oreja viene, solamente viene, en un ritmo de canción de cuna.</Content>
+				<Br />
+				<Content>Por otra parte, tengo todavía la poesía anecdótica que tanto desprecian los poetas mozos.</Content>
+				<Br />
+				<Content>La poesía me conforta los sentidos y eso que llaman el alma, pero la poesía ajena mucho más que la propia. Ambas me hacen correr mejor la sangre, me defienden la infantilidad del carácter, me anidan y me dan una especie de asepsia respecto del mundo.</Content>
+				<Br />
+				<Content>La poesía es en mí sencillamente un rezago, un sedimento de la infancia sumergida. Aunque resulte amarga y dura, la poesía que hago me lava de los polvos del mundo y hasta de no sé qué vileza esencial, parecida a lo que llamamos el pecado original, que llevo conmigo y que llevo con aflicción.</Content>
+				<Br />
+				<Content>Tal vez el pecado original no sea sino nuestra caída en la expresión racional y antirrítmica a la cual bajó el género humano castigado, y que más nos duele a las mujeres por el gozo que perdimos en la gracia de una lengua de intuición y de música que iba a ser la lengua del género humano.</Content>
+				<Br />
+				<Content>Y a propósito de la infancia, pensaba qué definición sería la que yo pudiese dar de la poesía. Y pensaba en eso.</Content>
+				<Br />
+				<Content>Y he escrito un poema en que habla un niño, el niño habla de una cantidad de bultos que ve falsos, que ve con su ojito.</Content>
+				<Br />
+				<Content>Yo creo que cuando nacemos, los que vamos a hacer versos traemos en el ojo una viga atravesada. Esa viga atravesada nos deforma, ya sea transfigurándolo o en otra forma, todo lo que miramos y nos hace para toda la vida antilógicos y antirrealistas. El llamado poeta realista no existe. De manera que esa viga nos hace a veces ver amarillo lo que es negro, y nos hace ver redondo lo que es cuadrado, y nos hace caminar entre una serie de disparates maravillosos.</Content>
+				<Br />
+				<Content>Dicen que al morir la mayor parte de los agonizantes lloran una lágrima, una extraña lágrima que cae con mucha lentitud. Yo creo que la viga del ojo del poeta no se va sino en esa última lágrima del agonizante.</Content>
+				<Br />
+				<Content>Entraremos así en el paraíso, donde sea, con el ojo limpio porque ya en otra parte no nos serviría de nada una viga que nos transfigure las cosas.</Content>
+				<Br />
+				<Content>Voy a decirles esa pequeña poesía que habla de la viga en el ojito del niño. Se llama «La pajita» y está escrita en la lengua folclórica de nuestro pueblo chileno que cuenta de una curiosa manera, diciendo: ésta que o éste que:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" KerningMethod="$ID/Metrics" Tracking="-10">
+				<Properties>
+					<Leading type="unit">12</Leading>
+				</Properties>
+				<Content>Esta que era una niña de cera. Pero no era una niña de cera, era una gavilla parada en la era. Tampoco era la gavilla sino la flor tiesa de la maravilla. Tampoco era la flor sino que era un rayito de sol pegado a la vidriera. Y no era un rayito de sol siquiera: una pajita dentro de mis ojos era.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" KerningMethod="$ID/Metrics" Tracking="-30">
+				<Properties>
+					<Leading type="unit">12</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" KerningMethod="$ID/Metrics" Tracking="-20">
+				<Properties>
+					<Leading type="unit">12</Leading>
+				</Properties>
+				<Content>¡Alléguense a mirar cómo he perdido entera, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" KerningMethod="$ID/Metrics" Tracking="-10">
+				<Properties>
+					<Leading type="unit">12</Leading>
+				</Properties>
+				<Content>en este lagrimón, mi fiesta verdadera!</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
+				<Properties>
+					<Leading type="unit">12</Leading>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Tres mujeres tristes</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Estilo de párrafo 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
+				<Content>En este año de 1998 en que se cumplen y celebran algunos centenarios como el de la casi mítica y discu</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>tida </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="45 Book" Ligatures="false" OTFContextualAlternate="false">
+				<Properties>
+					<AppliedFont type="string">Avenir LT Std</AppliedFont>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Generación del 98</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Ligatures="false" OTFContextualAlternate="false">
+				<Content>»</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
+				<Content> o el nacimiento de dos eminentes poetas del 27, como son Vicente Aleixandre y García Lorca, aquí en este recóndito rincón del Sur, donde América hace esquina con el Océano Atlántico, recordamos un encuentro especial. En esta hoy ventosa Montevideo otoñal hace sesenta años se celebraba una magna fiesta del espíritu, como se decía entonces, bajo el radiante sol de enero del verano austral, en el Instituto Alfredo Vázquez Acevedo, pr</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>incipal centro de estudios de educación preuniversitaria, se reunían las entonces llamadas </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="45 Book" Ligatures="false" OTFContextualAlternate="false">
+				<Properties>
+					<AppliedFont type="string">Avenir LT Std</AppliedFont>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>las tres poetisas del Sur</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="45 Book" Ligatures="false" OTFContextualAlternate="false">
+				<Properties>
+					<AppliedFont type="string">Avenir LT Std</AppliedFont>
+				</Properties>
+				<Content>»</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>; ellas eran Gabriela Mistral, Alfonsina Storni y Juana de Ibarbourou.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>De esta reunión donde se homenajeaba a la poesía femenina más importante de la época y en la cual cada una de las escritoras explicó su </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="45 Book" Ligatures="false" OTFContextualAlternate="false">
+				<Properties>
+					<AppliedFont type="string">Avenir LT Std</AppliedFont>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>modo</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="45 Book" Ligatures="false" OTFContextualAlternate="false">
+				<Properties>
+					<AppliedFont type="string">Avenir LT Std</AppliedFont>
+				</Properties>
+				<Content>»</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> de poetizar, queda un retrato que las reúne para la posteridad. Allí puede apreciarse tres modos de ser diferente, tres expresiones, tres posturas.</Content>
+				<Br />
+				<Content>Sobresale, quizás, Gabriela. Es la más robusta, la que luce un atuendo nada ortodoxo, con falda hasta el tobillo, gruesos zapatones, larga chaqueta, algunas canas que no se empeña en ocultar. Frisa, en ese momento, la cincuentena. La rotunda madurez de sus 49 años contrasta con la de sus colegas que, con apenas tres años menos, parecen, sin embargo bastante menores. Alfonsina Storni, esboza una sonrisa con una expresión entre pícara y desafiante en la que destila un dejo de ironía. Su indumentaria es clásicamente femenina, desde su vestido estampado hasta su sombrero y sus guantes, e, incluso, una estola de piel en pleno verano. Ella es la que reúne mayor número de atributos femeninos exteriores referidos a la vestimenta: flores (en el diseño de la tela de su vestido), guantes, sombrero, piel. Es menuda, más bien de baja estatura y delgada. Hace un nítido contraste con la figura de la chilena. En Juana de Ibarbourou se advierte una expresión melancólica, seria, las manos juntas, es baja y delicada, elegante a la vez que discreta y parece más joven que las otras aunque tiene los mismos 46 años que la Storni. Tanto la argentina como la uruguaya parecen más pequeñas que Gabriela. Esta aparenta ser no sólo la mayor, sino la más grande, la protectora y la maternal.</Content>
+				<Br />
+				<Content>En realidad las tres constituyen, cada una a su modo, un desafío, y todas se atreven a la aventura y al riesgo de ser escritoras en un mundo mayoritariamente regido por hombres. Por eso, esta foto, que refleja una época y una actitud, se torna emblemática para este fin de siglo y de milenio, cuando la presencia de la mujer en el mundo no sólo llega a ser a veces preponderante, sino decisiva. Así en el campo de las artes como en el de la política, en la literatura como en la ciencia.</Content>
+				<Br />
+				<Content>Estas mujeres constituyen un tríptico casi indisoluble. Cada una remite a la otra; ellas representan el emergente inmediato de una parte de la sociedad en una época determinada. La mujer vota, por primera vez, en Uruguay, precisamente ese año 1938; en Argentina recién conquistará ese derecho en la segunda presidencia de Perón gracias a la figura controversial y carismática de Eva Duarte.</Content>
+				<Br />
+				<Content>Las tres figuras de la fotografía tienen rasgos personales que las unen. Todas pertenecen a una clase media baja de origen campesino; todas hacen su obra desgajadas de su lugar natal: Gabriela, en añoranza permanente de su valle de Elqui; Juana, en celebración gozosa o en evocación elegíaca de su juventud amorosa en los campos de su Cerro Largo; Alfonsina en lucha permanente con su medio social y su vida afectiva, lejos de su remoto San Juan.</Content>
+				<Br />
+				<Content>La chilena y la argentina son solteras; Juana, en cambio se casó con un militar. Es la más integrada a la ortodoxia moral y social de su tiempo: es esposa, madre, hija. Pero aún así, también es desafiante a su medio y a su época, como sus compañeras de fotografía ya que, como ellas, transgrede ciertas normas como ser la revelación de su intimidad ardorosa e intensa. Sus poemas de amor no se avienen demasiado a lo establecido, ya que es una mujer que se muestra más como hembra que en su aspecto maternal. Las tres trasponen el umbral impuesto y se transforman en escritoras en contacto con el mundo. Todas son trasplantadas de su medio campesino al ámbito urbano y todas buscan y se forjan una nueva identidad: Gabriela Mistral desplaza a la original maestra rural que respondía al nombre de Lucila Godoy, Juana de Ibarbourou, nombre del marido, deja atrás a la joven de Melo llamada Juanita Fernández y Alfonsina, como madre soltera se apresta a dar batalla a todo un mundo, bajo su nuevo rostro de mujer de lucha y sin prejuicios.</Content>
+				<Br />
+				<Content>Son tres mujeres unidas en la historia de la poesía hispanoamericana bajo la tutela de la adelantada Delmira Agustini, la más agónica, que fue destruida por la red de prejuicios del Uruguay de 1914. Las tres sufrientes y heroicas, pagaron con su vida o su felicidad, la entrega a la Poesía.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</Document>
